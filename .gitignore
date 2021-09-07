@@ -1,0 +1,10 @@
+ext/data/
+ext/data/bert_data/*
+ext/data/json_data/*
+ext/raw/*
+.git
+.idea
+.ipynb_checkpoints
+.vscode
+
+
