@@ -1,0 +1,1026 @@
+[2021-06-02 18:29:12,838 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-02 18:29:12,838 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-02 18:29:12,840 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-02 18:29:12,843 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-02 18:29:12,846 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-02 18:29:12,855 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-02 18:29:55,884 INFO] Processed instances 1000
+[2021-06-02 18:29:55,885 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-02 18:29:56,781 INFO] Processed instances 1000
+[2021-06-02 18:29:56,782 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-02 18:29:57,267 INFO] Processed instances 1000
+[2021-06-02 18:29:57,267 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-02 18:29:57,527 INFO] Processed instances 1000
+[2021-06-02 18:29:57,527 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-02 18:29:57,909 INFO] Processed instances 1000
+[2021-06-02 18:29:57,910 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-02 18:29:58,120 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-02 18:29:58,454 INFO] Processed instances 1000
+[2021-06-02 18:29:58,454 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-02 18:29:58,927 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-02 18:29:59,394 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-02 18:29:59,771 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-02 18:30:37,096 INFO] Processed instances 1000
+[2021-06-02 18:30:37,097 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-02 18:30:37,348 INFO] Processed instances 1000
+[2021-06-02 18:30:37,348 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-02 18:30:39,297 INFO] Processed instances 987
+[2021-06-02 18:30:39,297 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt
+[2021-06-02 18:30:39,315 INFO] Processed instances 1000
+[2021-06-02 18:30:39,315 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-02 18:33:46,998 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-02 18:33:46,998 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-02 18:33:46,999 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-02 18:33:47,016 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-02 18:33:47,025 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-02 18:33:47,052 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-02 18:54:43,816 INFO] Processing ../ext/data/json_data/train_abs/train.01000_01999.json
+[2021-06-02 18:54:43,816 INFO] Processing ../ext/data/json_data/train_abs/train.00000_00999.json
+[2021-06-02 18:54:43,817 INFO] Processing ../ext/data/json_data/train_abs/train.03000_03999.json
+[2021-06-02 18:54:43,818 INFO] Processing ../ext/data/json_data/train_abs/train.02000_02999.json
+[2021-06-02 18:56:34,130 INFO] Processed instances 1000
+[2021-06-02 18:56:34,131 INFO] Saving to ../ext/data/bert_data/train_abs/train.03000_03999.bert.pt
+[2021-06-02 18:56:36,226 INFO] Processed instances 1000
+[2021-06-02 18:56:36,226 INFO] Saving to ../ext/data/bert_data/train_abs/train.01000_01999.bert.pt
+[2021-06-02 18:56:36,317 INFO] Processing ../ext/data/json_data/train_abs/train.04000_04999.json
+[2021-06-02 18:56:38,364 INFO] Processing ../ext/data/json_data/train_abs/train.05000_05999.json
+[2021-06-02 18:56:39,684 INFO] Processed instances 1000
+[2021-06-02 18:56:39,685 INFO] Saving to ../ext/data/bert_data/train_abs/train.02000_02999.bert.pt
+[2021-06-02 18:56:39,960 INFO] Processed instances 1000
+[2021-06-02 18:56:39,960 INFO] Saving to ../ext/data/bert_data/train_abs/train.00000_00999.bert.pt
+[2021-06-02 18:56:41,844 INFO] Processing ../ext/data/json_data/train_abs/train.06000_06999.json
+[2021-06-02 18:56:42,123 INFO] Processing ../ext/data/json_data/train_abs/train.07000_07999.json
+[2021-06-02 18:58:23,783 INFO] Processed instances 1000
+[2021-06-02 18:58:23,783 INFO] Saving to ../ext/data/bert_data/train_abs/train.04000_04999.bert.pt
+[2021-06-02 18:58:26,089 INFO] Processing ../ext/data/json_data/train_abs/train.08000_08999.json
+[2021-06-02 18:58:28,940 INFO] Processed instances 1000
+[2021-06-02 18:58:28,941 INFO] Saving to ../ext/data/bert_data/train_abs/train.05000_05999.bert.pt
+[2021-06-02 18:58:31,109 INFO] Processing ../ext/data/json_data/train_abs/train.09000_09999.json
+[2021-06-02 18:58:33,109 INFO] Processed instances 1000
+[2021-06-02 18:58:33,110 INFO] Saving to ../ext/data/bert_data/train_abs/train.07000_07999.bert.pt
+[2021-06-02 18:58:35,288 INFO] Processing ../ext/data/json_data/train_abs/train.10000_10999.json
+[2021-06-02 18:58:36,505 INFO] Processed instances 1000
+[2021-06-02 18:58:36,505 INFO] Saving to ../ext/data/bert_data/train_abs/train.06000_06999.bert.pt
+[2021-06-02 18:58:38,630 INFO] Processing ../ext/data/json_data/train_abs/train.11000_11999.json
+[2021-06-02 19:00:13,465 INFO] Processed instances 1000
+[2021-06-02 19:00:13,465 INFO] Saving to ../ext/data/bert_data/train_abs/train.08000_08999.bert.pt
+[2021-06-02 19:00:15,635 INFO] Processing ../ext/data/json_data/train_abs/train.12000_12999.json
+[2021-06-02 19:00:19,421 INFO] Processed instances 1000
+[2021-06-02 19:00:19,421 INFO] Saving to ../ext/data/bert_data/train_abs/train.09000_09999.bert.pt
+[2021-06-02 19:00:20,211 INFO] Processed instances 1000
+[2021-06-02 19:00:20,211 INFO] Saving to ../ext/data/bert_data/train_abs/train.10000_10999.bert.pt
+[2021-06-02 19:00:21,651 INFO] Processing ../ext/data/json_data/train_abs/train.13000_13999.json
+[2021-06-02 19:00:22,343 INFO] Processing ../ext/data/json_data/train_abs/train.14000_14999.json
+[2021-06-02 19:00:27,892 INFO] Processed instances 1000
+[2021-06-02 19:00:27,893 INFO] Saving to ../ext/data/bert_data/train_abs/train.11000_11999.bert.pt
+[2021-06-02 19:00:30,038 INFO] Processing ../ext/data/json_data/train_abs/train.15000_15999.json
+[2021-06-02 19:02:05,047 INFO] Processed instances 1000
+[2021-06-02 19:02:05,048 INFO] Saving to ../ext/data/bert_data/train_abs/train.12000_12999.bert.pt
+[2021-06-02 19:02:07,203 INFO] Processing ../ext/data/json_data/train_abs/train.16000_16999.json
+[2021-06-02 19:02:10,071 INFO] Processed instances 1000
+[2021-06-02 19:02:10,071 INFO] Saving to ../ext/data/bert_data/train_abs/train.14000_14999.bert.pt
+[2021-06-02 19:02:12,228 INFO] Processing ../ext/data/json_data/train_abs/train.17000_17999.json
+[2021-06-02 19:02:14,149 INFO] Processed instances 1000
+[2021-06-02 19:02:14,149 INFO] Saving to ../ext/data/bert_data/train_abs/train.13000_13999.bert.pt
+[2021-06-02 19:02:16,326 INFO] Processing ../ext/data/json_data/train_abs/train.18000_18999.json
+[2021-06-02 19:02:18,183 INFO] Processed instances 1000
+[2021-06-02 19:02:18,184 INFO] Saving to ../ext/data/bert_data/train_abs/train.15000_15999.bert.pt
+[2021-06-02 19:02:20,573 INFO] Processing ../ext/data/json_data/train_abs/train.19000_19999.json
+[2021-06-02 19:04:00,240 INFO] Processed instances 1000
+[2021-06-02 19:04:00,241 INFO] Saving to ../ext/data/bert_data/train_abs/train.16000_16999.bert.pt
+[2021-06-02 19:04:01,348 INFO] Processed instances 1000
+[2021-06-02 19:04:01,349 INFO] Saving to ../ext/data/bert_data/train_abs/train.17000_17999.bert.pt
+[2021-06-02 19:04:02,351 INFO] Processing ../ext/data/json_data/train_abs/train.20000_20999.json
+[2021-06-02 19:04:03,533 INFO] Processing ../ext/data/json_data/train_abs/train.21000_21999.json
+[2021-06-02 19:04:03,624 INFO] Processed instances 1000
+[2021-06-02 19:04:03,624 INFO] Saving to ../ext/data/bert_data/train_abs/train.18000_18999.bert.pt
+[2021-06-02 19:04:05,739 INFO] Processing ../ext/data/json_data/train_abs/train.22000_22999.json
+[2021-06-02 19:04:06,448 INFO] Processed instances 1000
+[2021-06-02 19:04:06,448 INFO] Saving to ../ext/data/bert_data/train_abs/train.19000_19999.bert.pt
+[2021-06-02 19:04:08,605 INFO] Processing ../ext/data/json_data/train_abs/train.23000_23999.json
+[2021-06-02 19:05:52,795 INFO] Processed instances 1000
+[2021-06-02 19:05:52,795 INFO] Saving to ../ext/data/bert_data/train_abs/train.20000_20999.bert.pt
+[2021-06-02 19:05:54,495 INFO] Processed instances 1000
+[2021-06-02 19:05:54,496 INFO] Saving to ../ext/data/bert_data/train_abs/train.21000_21999.bert.pt
+[2021-06-02 19:05:54,912 INFO] Processing ../ext/data/json_data/train_abs/train.24000_24999.json
+[2021-06-02 19:05:55,475 INFO] Processed instances 1000
+[2021-06-02 19:05:55,476 INFO] Saving to ../ext/data/bert_data/train_abs/train.22000_22999.bert.pt
+[2021-06-02 19:05:56,610 INFO] Processing ../ext/data/json_data/train_abs/train.25000_25999.json
+[2021-06-02 19:05:57,579 INFO] Processing ../ext/data/json_data/train_abs/train.26000_26999.json
+[2021-06-02 19:06:01,257 INFO] Processed instances 1000
+[2021-06-02 19:06:01,258 INFO] Saving to ../ext/data/bert_data/train_abs/train.23000_23999.bert.pt
+[2021-06-02 19:06:03,427 INFO] Processing ../ext/data/json_data/train_abs/train.27000_27999.json
+[2021-06-02 19:07:43,123 INFO] Processed instances 1000
+[2021-06-02 19:07:43,124 INFO] Saving to ../ext/data/bert_data/train_abs/train.25000_25999.bert.pt
+[2021-06-02 19:07:43,739 INFO] Processed instances 1000
+[2021-06-02 19:07:43,740 INFO] Saving to ../ext/data/bert_data/train_abs/train.24000_24999.bert.pt
+[2021-06-02 19:07:44,899 INFO] Processed instances 1000
+[2021-06-02 19:07:44,899 INFO] Saving to ../ext/data/bert_data/train_abs/train.26000_26999.bert.pt
+[2021-06-02 19:07:45,243 INFO] Processing ../ext/data/json_data/train_abs/train.28000_28999.json
+[2021-06-02 19:07:45,831 INFO] Processing ../ext/data/json_data/train_abs/train.29000_29999.json
+[2021-06-02 19:07:47,049 INFO] Processing ../ext/data/json_data/train_abs/train.30000_30999.json
+[2021-06-02 19:07:52,324 INFO] Processed instances 1000
+[2021-06-02 19:07:52,324 INFO] Saving to ../ext/data/bert_data/train_abs/train.27000_27999.bert.pt
+[2021-06-02 19:07:54,503 INFO] Processing ../ext/data/json_data/train_abs/train.31000_31999.json
+[2021-06-02 19:09:30,309 INFO] Processed instances 1000
+[2021-06-02 19:09:30,310 INFO] Saving to ../ext/data/bert_data/train_abs/train.30000_30999.bert.pt
+[2021-06-02 19:09:32,536 INFO] Processing ../ext/data/json_data/train_abs/train.32000_32999.json
+[2021-06-02 19:09:34,412 INFO] Processed instances 1000
+[2021-06-02 19:09:34,412 INFO] Saving to ../ext/data/bert_data/train_abs/train.28000_28999.bert.pt
+[2021-06-02 19:09:35,373 INFO] Processed instances 1000
+[2021-06-02 19:09:35,373 INFO] Saving to ../ext/data/bert_data/train_abs/train.29000_29999.bert.pt
+[2021-06-02 19:09:36,528 INFO] Processing ../ext/data/json_data/train_abs/train.33000_33999.json
+[2021-06-02 19:09:37,467 INFO] Processing ../ext/data/json_data/train_abs/train.34000_34999.json
+[2021-06-02 19:09:41,376 INFO] Processed instances 1000
+[2021-06-02 19:09:41,376 INFO] Saving to ../ext/data/bert_data/train_abs/train.31000_31999.bert.pt
+[2021-06-02 19:09:43,518 INFO] Processing ../ext/data/json_data/train_abs/train.35000_35999.json
+[2021-06-02 19:11:22,606 INFO] Processed instances 1000
+[2021-06-02 19:11:22,606 INFO] Saving to ../ext/data/bert_data/train_abs/train.32000_32999.bert.pt
+[2021-06-02 19:11:23,381 INFO] Processed instances 1000
+[2021-06-02 19:11:23,381 INFO] Saving to ../ext/data/bert_data/train_abs/train.33000_33999.bert.pt
+[2021-06-02 19:11:24,729 INFO] Processing ../ext/data/json_data/train_abs/train.36000_36999.json
+[2021-06-02 19:11:25,778 INFO] Processing ../ext/data/json_data/train_abs/train.37000_37999.json
+[2021-06-02 19:11:26,945 INFO] Processed instances 1000
+[2021-06-02 19:11:26,946 INFO] Saving to ../ext/data/bert_data/train_abs/train.34000_34999.bert.pt
+[2021-06-02 19:11:29,047 INFO] Processing ../ext/data/json_data/train_abs/train.38000_38999.json
+[2021-06-02 19:11:31,790 INFO] Processed instances 1000
+[2021-06-02 19:11:31,791 INFO] Saving to ../ext/data/bert_data/train_abs/train.35000_35999.bert.pt
+[2021-06-02 19:11:33,961 INFO] Processing ../ext/data/json_data/train_abs/train.39000_39999.json
+[2021-06-02 19:13:15,067 INFO] Processed instances 1000
+[2021-06-02 19:13:15,067 INFO] Saving to ../ext/data/bert_data/train_abs/train.37000_37999.bert.pt
+[2021-06-02 19:13:16,167 INFO] Processed instances 1000
+[2021-06-02 19:13:16,168 INFO] Saving to ../ext/data/bert_data/train_abs/train.36000_36999.bert.pt
+[2021-06-02 19:13:17,124 INFO] Processing ../ext/data/json_data/train_abs/train.40000_40662.json
+[2021-06-02 19:13:19,151 INFO] Processed instances 1000
+[2021-06-02 19:13:19,151 INFO] Saving to ../ext/data/bert_data/train_abs/train.38000_38999.bert.pt
+[2021-06-02 19:13:24,141 INFO] Processed instances 1000
+[2021-06-02 19:13:24,141 INFO] Saving to ../ext/data/bert_data/train_abs/train.39000_39999.bert.pt
+[2021-06-02 19:14:24,816 INFO] Processed instances 663
+[2021-06-02 19:14:24,817 INFO] Saving to ../ext/data/bert_data/train_abs/train.40000_40662.bert.pt
+[2021-06-02 19:14:53,752 INFO] Processing ../ext/data/json_data/valid_abs/valid.0000_0999.json
+[2021-06-02 19:14:53,761 INFO] Processing ../ext/data/json_data/valid_abs/valid.1000_1999.json
+[2021-06-02 19:14:53,771 INFO] Processing ../ext/data/json_data/valid_abs/valid.2000_2139.json
+[2021-06-02 19:15:09,837 INFO] Processed instances 140
+[2021-06-02 19:15:09,837 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.2000_2139.bert.pt
+[2021-06-02 19:16:31,369 INFO] Processed instances 1000
+[2021-06-02 19:16:31,369 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.0000_0999.bert.pt
+[2021-06-02 19:16:33,324 INFO] Processed instances 1000
+[2021-06-02 19:16:33,325 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.1000_1999.bert.pt
+[2021-06-02 19:17:23,304 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-02 19:17:23,307 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-02 19:17:23,314 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-02 19:17:23,338 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-02 19:17:59,711 INFO] Processed instances 1000
+[2021-06-02 19:17:59,711 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-02 19:18:00,672 INFO] Processed instances 1000
+[2021-06-02 19:18:00,672 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-02 19:18:01,793 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-02 19:18:02,169 INFO] Processed instances 1000
+[2021-06-02 19:18:02,169 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-02 19:18:02,340 INFO] Processed instances 1000
+[2021-06-02 19:18:02,341 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-02 19:18:02,801 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-02 19:18:04,263 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-02 19:18:04,440 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-02 19:18:40,733 INFO] Processed instances 1000
+[2021-06-02 19:18:40,733 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-02 19:18:41,597 INFO] Processed instances 1000
+[2021-06-02 19:18:41,597 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-02 19:18:41,682 INFO] Processed instances 1000
+[2021-06-02 19:18:41,683 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-02 19:18:42,377 INFO] Processed instances 1000
+[2021-06-02 19:18:42,378 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-02 19:18:42,859 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-02 19:18:43,692 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-02 19:19:20,309 INFO] Processed instances 987
+[2021-06-02 19:19:20,309 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt
+[2021-06-02 19:19:20,436 INFO] Processed instances 1000
+[2021-06-02 19:19:20,436 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-04 19:51:35,083 INFO] Processing ../ext/data/json_data/train_abs/train.04000_04999.json
+[2021-06-04 19:51:35,084 INFO] Processing ../ext/data/json_data/train_abs/train.00000_00999.json
+[2021-06-04 19:51:35,084 INFO] Processing ../ext/data/json_data/train_abs/train.01000_01999.json
+[2021-06-04 19:51:35,091 INFO] Processing ../ext/data/json_data/train_abs/train.05000_05999.json
+[2021-06-04 19:51:35,097 INFO] Processing ../ext/data/json_data/train_abs/train.03000_03999.json
+[2021-06-04 19:51:35,101 INFO] Processing ../ext/data/json_data/train_abs/train.02000_02999.json
+[2021-06-04 19:53:21,337 INFO] Processed instances 1000
+[2021-06-04 19:53:21,337 INFO] Saving to ../ext/data/bert_data/train_abs/train.04000_04999.bert.pt
+[2021-06-04 19:53:23,506 INFO] Processing ../ext/data/json_data/train_abs/train.06000_06999.json
+[2021-06-04 19:53:24,154 INFO] Processed instances 1000
+[2021-06-04 19:53:24,155 INFO] Saving to ../ext/data/bert_data/train_abs/train.05000_05999.bert.pt
+[2021-06-04 19:53:24,549 INFO] Processed instances 1000
+[2021-06-04 19:53:24,549 INFO] Saving to ../ext/data/bert_data/train_abs/train.01000_01999.bert.pt
+[2021-06-04 19:53:26,277 INFO] Processed instances 1000
+[2021-06-04 19:53:26,278 INFO] Saving to ../ext/data/bert_data/train_abs/train.03000_03999.bert.pt
+[2021-06-04 19:53:26,298 INFO] Processing ../ext/data/json_data/train_abs/train.07000_07999.json
+[2021-06-04 19:53:26,356 INFO] Processed instances 1000
+[2021-06-04 19:53:26,356 INFO] Saving to ../ext/data/bert_data/train_abs/train.02000_02999.bert.pt
+[2021-06-04 19:53:26,699 INFO] Processing ../ext/data/json_data/train_abs/train.08000_08999.json
+[2021-06-04 19:53:27,251 INFO] Processed instances 1000
+[2021-06-04 19:53:27,252 INFO] Saving to ../ext/data/bert_data/train_abs/train.00000_00999.bert.pt
+[2021-06-04 19:53:28,424 INFO] Processing ../ext/data/json_data/train_abs/train.09000_09999.json
+[2021-06-04 19:53:28,453 INFO] Processing ../ext/data/json_data/train_abs/train.10000_10999.json
+[2021-06-04 19:53:29,404 INFO] Processing ../ext/data/json_data/train_abs/train.11000_11999.json
+[2021-06-04 19:55:21,146 INFO] Processed instances 1000
+[2021-06-04 19:55:21,147 INFO] Saving to ../ext/data/bert_data/train_abs/train.08000_08999.bert.pt
+[2021-06-04 19:55:22,080 INFO] Processed instances 1000
+[2021-06-04 19:55:22,081 INFO] Saving to ../ext/data/bert_data/train_abs/train.06000_06999.bert.pt
+[2021-06-04 19:55:23,382 INFO] Processing ../ext/data/json_data/train_abs/train.12000_12999.json
+[2021-06-04 19:55:24,300 INFO] Processed instances 1000
+[2021-06-04 19:55:24,301 INFO] Saving to ../ext/data/bert_data/train_abs/train.11000_11999.bert.pt
+[2021-06-04 19:55:24,303 INFO] Processing ../ext/data/json_data/train_abs/train.13000_13999.json
+[2021-06-04 19:55:24,401 INFO] Processed instances 1000
+[2021-06-04 19:55:24,401 INFO] Saving to ../ext/data/bert_data/train_abs/train.10000_10999.bert.pt
+[2021-06-04 19:55:24,608 INFO] Processed instances 1000
+[2021-06-04 19:55:24,608 INFO] Saving to ../ext/data/bert_data/train_abs/train.07000_07999.bert.pt
+[2021-06-04 19:55:25,911 INFO] Processed instances 1000
+[2021-06-04 19:55:25,911 INFO] Saving to ../ext/data/bert_data/train_abs/train.09000_09999.bert.pt
+[2021-06-04 19:55:26,457 INFO] Processing ../ext/data/json_data/train_abs/train.14000_14999.json
+[2021-06-04 19:55:26,544 INFO] Processing ../ext/data/json_data/train_abs/train.15000_15999.json
+[2021-06-04 19:55:26,825 INFO] Processing ../ext/data/json_data/train_abs/train.16000_16999.json
+[2021-06-04 19:55:28,003 INFO] Processing ../ext/data/json_data/train_abs/train.17000_17999.json
+[2021-06-04 19:57:17,590 INFO] Processed instances 1000
+[2021-06-04 19:57:17,591 INFO] Saving to ../ext/data/bert_data/train_abs/train.12000_12999.bert.pt
+[2021-06-04 19:57:17,646 INFO] Processed instances 1000
+[2021-06-04 19:57:17,647 INFO] Saving to ../ext/data/bert_data/train_abs/train.17000_17999.bert.pt
+[2021-06-04 19:57:18,374 INFO] Processed instances 1000
+[2021-06-04 19:57:18,374 INFO] Saving to ../ext/data/bert_data/train_abs/train.16000_16999.bert.pt
+[2021-06-04 19:57:18,634 INFO] Processed instances 1000
+[2021-06-04 19:57:18,635 INFO] Saving to ../ext/data/bert_data/train_abs/train.14000_14999.bert.pt
+[2021-06-04 19:57:19,775 INFO] Processing ../ext/data/json_data/train_abs/train.19000_19999.json
+[2021-06-04 19:57:19,810 INFO] Processing ../ext/data/json_data/train_abs/train.18000_18999.json
+[2021-06-04 19:57:20,166 INFO] Processed instances 1000
+[2021-06-04 19:57:20,166 INFO] Saving to ../ext/data/bert_data/train_abs/train.15000_15999.bert.pt
+[2021-06-04 19:57:20,480 INFO] Processing ../ext/data/json_data/train_abs/train.20000_20999.json
+[2021-06-04 19:57:20,711 INFO] Processing ../ext/data/json_data/train_abs/train.21000_21999.json
+[2021-06-04 19:57:22,504 INFO] Processing ../ext/data/json_data/train_abs/train.22000_22999.json
+[2021-06-04 19:57:25,025 INFO] Processed instances 1000
+[2021-06-04 19:57:25,026 INFO] Saving to ../ext/data/bert_data/train_abs/train.13000_13999.bert.pt
+[2021-06-04 19:57:27,204 INFO] Processing ../ext/data/json_data/train_abs/train.23000_23999.json
+[2021-06-04 19:59:09,746 INFO] Processed instances 1000
+[2021-06-04 19:59:09,746 INFO] Saving to ../ext/data/bert_data/train_abs/train.19000_19999.bert.pt
+[2021-06-04 19:59:10,809 INFO] Processed instances 1000
+[2021-06-04 19:59:10,810 INFO] Saving to ../ext/data/bert_data/train_abs/train.21000_21999.bert.pt
+[2021-06-04 19:59:11,707 INFO] Processed instances 1000
+[2021-06-04 19:59:11,708 INFO] Saving to ../ext/data/bert_data/train_abs/train.22000_22999.bert.pt
+[2021-06-04 19:59:11,917 INFO] Processing ../ext/data/json_data/train_abs/train.24000_24999.json
+[2021-06-04 19:59:12,988 INFO] Processing ../ext/data/json_data/train_abs/train.25000_25999.json
+[2021-06-04 19:59:13,072 INFO] Processed instances 1000
+[2021-06-04 19:59:13,073 INFO] Saving to ../ext/data/bert_data/train_abs/train.18000_18999.bert.pt
+[2021-06-04 19:59:13,221 INFO] Processed instances 1000
+[2021-06-04 19:59:13,221 INFO] Saving to ../ext/data/bert_data/train_abs/train.20000_20999.bert.pt
+[2021-06-04 19:59:13,817 INFO] Processing ../ext/data/json_data/train_abs/train.26000_26999.json
+[2021-06-04 19:59:15,165 INFO] Processing ../ext/data/json_data/train_abs/train.27000_27999.json
+[2021-06-04 19:59:15,322 INFO] Processing ../ext/data/json_data/train_abs/train.28000_28999.json
+[2021-06-04 19:59:31,950 INFO] Processed instances 1000
+[2021-06-04 19:59:31,950 INFO] Saving to ../ext/data/bert_data/train_abs/train.23000_23999.bert.pt
+[2021-06-04 19:59:34,291 INFO] Processing ../ext/data/json_data/train_abs/train.29000_29999.json
+[2021-06-04 20:01:08,328 INFO] Processed instances 1000
+[2021-06-04 20:01:08,329 INFO] Saving to ../ext/data/bert_data/train_abs/train.28000_28999.bert.pt
+[2021-06-04 20:01:08,346 INFO] Processed instances 1000
+[2021-06-04 20:01:08,346 INFO] Saving to ../ext/data/bert_data/train_abs/train.25000_25999.bert.pt
+[2021-06-04 20:01:10,632 INFO] Processing ../ext/data/json_data/train_abs/train.31000_31999.json
+[2021-06-04 20:01:10,644 INFO] Processing ../ext/data/json_data/train_abs/train.30000_30999.json
+[2021-06-04 20:01:12,531 INFO] Processed instances 1000
+[2021-06-04 20:01:12,532 INFO] Saving to ../ext/data/bert_data/train_abs/train.26000_26999.bert.pt
+[2021-06-04 20:01:14,156 INFO] Processed instances 1000
+[2021-06-04 20:01:14,156 INFO] Saving to ../ext/data/bert_data/train_abs/train.24000_24999.bert.pt
+[2021-06-04 20:01:14,548 INFO] Processed instances 1000
+[2021-06-04 20:01:14,549 INFO] Saving to ../ext/data/bert_data/train_abs/train.27000_27999.bert.pt
+[2021-06-04 20:01:14,740 INFO] Processing ../ext/data/json_data/train_abs/train.32000_32999.json
+[2021-06-04 20:01:16,332 INFO] Processing ../ext/data/json_data/train_abs/train.33000_33999.json
+[2021-06-04 20:01:16,747 INFO] Processing ../ext/data/json_data/train_abs/train.34000_34999.json
+[2021-06-04 20:01:35,278 INFO] Processed instances 1000
+[2021-06-04 20:01:35,280 INFO] Saving to ../ext/data/bert_data/train_abs/train.29000_29999.bert.pt
+[2021-06-04 20:01:37,490 INFO] Processing ../ext/data/json_data/train_abs/train.35000_35999.json
+[2021-06-04 20:03:09,147 INFO] Processed instances 1000
+[2021-06-04 20:03:09,148 INFO] Saving to ../ext/data/bert_data/train_abs/train.30000_30999.bert.pt
+[2021-06-04 20:03:10,576 INFO] Processed instances 1000
+[2021-06-04 20:03:10,576 INFO] Saving to ../ext/data/bert_data/train_abs/train.31000_31999.bert.pt
+[2021-06-04 20:03:11,514 INFO] Processing ../ext/data/json_data/train_abs/train.36000_36999.json
+[2021-06-04 20:03:12,735 INFO] Processing ../ext/data/json_data/train_abs/train.37000_37999.json
+[2021-06-04 20:03:16,651 INFO] Processed instances 1000
+[2021-06-04 20:03:16,652 INFO] Saving to ../ext/data/bert_data/train_abs/train.32000_32999.bert.pt
+[2021-06-04 20:03:19,102 INFO] Processing ../ext/data/json_data/train_abs/train.38000_38999.json
+[2021-06-04 20:03:20,359 INFO] Processed instances 1000
+[2021-06-04 20:03:20,360 INFO] Saving to ../ext/data/bert_data/train_abs/train.34000_34999.bert.pt
+[2021-06-04 20:03:20,651 INFO] Processed instances 1000
+[2021-06-04 20:03:20,653 INFO] Saving to ../ext/data/bert_data/train_abs/train.33000_33999.bert.pt
+[2021-06-04 20:03:22,539 INFO] Processing ../ext/data/json_data/train_abs/train.39000_39999.json
+[2021-06-04 20:03:22,826 INFO] Processing ../ext/data/json_data/train_abs/train.40000_40999.json
+[2021-06-04 20:03:39,492 INFO] Processed instances 1000
+[2021-06-04 20:03:39,493 INFO] Saving to ../ext/data/bert_data/train_abs/train.35000_35999.bert.pt
+[2021-06-04 20:03:41,665 INFO] Processing ../ext/data/json_data/train_abs/train.41000_41999.json
+[2021-06-04 20:05:00,540 INFO] Processed instances 1000
+[2021-06-04 20:05:00,540 INFO] Saving to ../ext/data/bert_data/train_abs/train.37000_37999.bert.pt
+[2021-06-04 20:05:01,668 INFO] Processed instances 1000
+[2021-06-04 20:05:01,669 INFO] Saving to ../ext/data/bert_data/train_abs/train.36000_36999.bert.pt
+[2021-06-04 20:05:02,745 INFO] Processing ../ext/data/json_data/train_abs/train.42000_42999.json
+[2021-06-04 20:05:03,975 INFO] Processing ../ext/data/json_data/train_abs/train.43000_43999.json
+[2021-06-04 20:05:09,288 INFO] Processed instances 1000
+[2021-06-04 20:05:09,289 INFO] Saving to ../ext/data/bert_data/train_abs/train.38000_38999.bert.pt
+[2021-06-04 20:05:10,121 INFO] Processed instances 1000
+[2021-06-04 20:05:10,122 INFO] Saving to ../ext/data/bert_data/train_abs/train.39000_39999.bert.pt
+[2021-06-04 20:05:11,451 INFO] Processing ../ext/data/json_data/train_abs/train.44000_44999.json
+[2021-06-04 20:05:12,260 INFO] Processing ../ext/data/json_data/train_abs/train.45000_45999.json
+[2021-06-04 20:05:19,464 INFO] Processed instances 1000
+[2021-06-04 20:05:19,465 INFO] Saving to ../ext/data/bert_data/train_abs/train.40000_40999.bert.pt
+[2021-06-04 20:05:21,662 INFO] Processing ../ext/data/json_data/train_abs/train.46000_46999.json
+[2021-06-04 20:05:29,212 INFO] Processed instances 1000
+[2021-06-04 20:05:29,213 INFO] Saving to ../ext/data/bert_data/train_abs/train.41000_41999.bert.pt
+[2021-06-04 20:05:31,361 INFO] Processing ../ext/data/json_data/train_abs/train.47000_47999.json
+[2021-06-04 20:06:47,097 INFO] Processed instances 1000
+[2021-06-04 20:06:47,098 INFO] Saving to ../ext/data/bert_data/train_abs/train.42000_42999.bert.pt
+[2021-06-04 20:06:49,239 INFO] Processing ../ext/data/json_data/train_abs/train.48000_48999.json
+[2021-06-04 20:06:49,800 INFO] Processed instances 1000
+[2021-06-04 20:06:49,800 INFO] Saving to ../ext/data/bert_data/train_abs/train.43000_43999.bert.pt
+[2021-06-04 20:06:51,965 INFO] Processing ../ext/data/json_data/train_abs/train.49000_49999.json
+[2021-06-04 20:06:57,146 INFO] Processed instances 1000
+[2021-06-04 20:06:57,146 INFO] Saving to ../ext/data/bert_data/train_abs/train.44000_44999.bert.pt
+[2021-06-04 20:06:58,776 INFO] Processed instances 1000
+[2021-06-04 20:06:58,777 INFO] Saving to ../ext/data/bert_data/train_abs/train.45000_45999.bert.pt
+[2021-06-04 20:06:59,328 INFO] Processing ../ext/data/json_data/train_abs/train.50000_50999.json
+[2021-06-04 20:07:00,917 INFO] Processing ../ext/data/json_data/train_abs/train.51000_51999.json
+[2021-06-04 20:07:10,351 INFO] Processed instances 1000
+[2021-06-04 20:07:10,351 INFO] Saving to ../ext/data/bert_data/train_abs/train.46000_46999.bert.pt
+[2021-06-04 20:07:12,531 INFO] Processing ../ext/data/json_data/train_abs/train.52000_52999.json
+[2021-06-04 20:07:18,520 INFO] Processed instances 1000
+[2021-06-04 20:07:18,521 INFO] Saving to ../ext/data/bert_data/train_abs/train.47000_47999.bert.pt
+[2021-06-04 20:07:20,731 INFO] Processing ../ext/data/json_data/train_abs/train.53000_53999.json
+[2021-06-04 20:08:33,782 INFO] Processed instances 1000
+[2021-06-04 20:08:33,783 INFO] Saving to ../ext/data/bert_data/train_abs/train.49000_49999.bert.pt
+[2021-06-04 20:08:35,958 INFO] Processing ../ext/data/json_data/train_abs/train.54000_54999.json
+[2021-06-04 20:08:36,325 INFO] Processed instances 1000
+[2021-06-04 20:08:36,325 INFO] Saving to ../ext/data/bert_data/train_abs/train.48000_48999.bert.pt
+[2021-06-04 20:08:38,473 INFO] Processing ../ext/data/json_data/train_abs/train.55000_55999.json
+[2021-06-04 20:08:46,666 INFO] Processed instances 1000
+[2021-06-04 20:08:46,667 INFO] Saving to ../ext/data/bert_data/train_abs/train.50000_50999.bert.pt
+[2021-06-04 20:08:48,881 INFO] Processing ../ext/data/json_data/train_abs/train.56000_56999.json
+[2021-06-04 20:08:50,188 INFO] Processed instances 1000
+[2021-06-04 20:08:50,189 INFO] Saving to ../ext/data/bert_data/train_abs/train.51000_51999.bert.pt
+[2021-06-04 20:08:52,326 INFO] Processing ../ext/data/json_data/train_abs/train.57000_57999.json
+[2021-06-04 20:09:02,815 INFO] Processed instances 1000
+[2021-06-04 20:09:02,816 INFO] Saving to ../ext/data/bert_data/train_abs/train.52000_52999.bert.pt
+[2021-06-04 20:09:05,019 INFO] Processing ../ext/data/json_data/train_abs/train.58000_58999.json
+[2021-06-04 20:09:08,159 INFO] Processed instances 1000
+[2021-06-04 20:09:08,160 INFO] Saving to ../ext/data/bert_data/train_abs/train.53000_53999.bert.pt
+[2021-06-04 20:09:10,315 INFO] Processing ../ext/data/json_data/train_abs/train.59000_59801.json
+[2021-06-04 20:10:25,099 INFO] Processed instances 1000
+[2021-06-04 20:10:25,099 INFO] Saving to ../ext/data/bert_data/train_abs/train.55000_55999.bert.pt
+[2021-06-04 20:10:26,380 INFO] Processed instances 1000
+[2021-06-04 20:10:26,380 INFO] Saving to ../ext/data/bert_data/train_abs/train.54000_54999.bert.pt
+[2021-06-04 20:10:35,598 INFO] Processed instances 1000
+[2021-06-04 20:10:35,599 INFO] Saving to ../ext/data/bert_data/train_abs/train.56000_56999.bert.pt
+[2021-06-04 20:10:36,404 INFO] Processed instances 802
+[2021-06-04 20:10:36,404 INFO] Saving to ../ext/data/bert_data/train_abs/train.59000_59801.bert.pt
+[2021-06-04 20:10:38,246 INFO] Processed instances 1000
+[2021-06-04 20:10:38,247 INFO] Saving to ../ext/data/bert_data/train_abs/train.57000_57999.bert.pt
+[2021-06-04 20:10:51,888 INFO] Processed instances 1000
+[2021-06-04 20:10:51,888 INFO] Saving to ../ext/data/bert_data/train_abs/train.58000_58999.bert.pt
+[2021-06-04 20:11:30,267 INFO] Processing ../ext/data/json_data/valid_abs/valid.0000_0999.json
+[2021-06-04 20:11:30,270 INFO] Processing ../ext/data/json_data/valid_abs/valid.2000_2999.json
+[2021-06-04 20:11:30,271 INFO] Processing ../ext/data/json_data/valid_abs/valid.1000_1999.json
+[2021-06-04 20:11:30,273 INFO] Processing ../ext/data/json_data/valid_abs/valid.3000_3146.json
+[2021-06-04 20:11:42,141 INFO] Processed instances 147
+[2021-06-04 20:11:42,142 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.3000_3146.bert.pt
+[2021-06-04 20:12:50,813 INFO] Processed instances 1000
+[2021-06-04 20:12:50,814 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.2000_2999.bert.pt
+[2021-06-04 20:13:19,236 INFO] Processed instances 1000
+[2021-06-04 20:13:19,236 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.0000_0999.bert.pt
+[2021-06-04 20:13:22,162 INFO] Processed instances 1000
+[2021-06-04 20:13:22,163 INFO] Saving to ../ext/data/bert_data/valid_abs/valid.1000_1999.bert.pt
+[2021-06-04 20:14:17,982 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-04 20:14:17,983 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-04 20:14:17,984 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-04 20:14:17,986 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-04 20:14:17,990 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-04 20:14:17,993 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-04 20:15:00,265 INFO] Processed instances 1000
+[2021-06-04 20:15:00,266 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-04 20:15:01,242 INFO] Processed instances 1000
+[2021-06-04 20:15:01,243 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-04 20:15:02,454 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-04 20:15:02,593 INFO] Processed instances 1000
+[2021-06-04 20:15:02,593 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-04 20:15:02,874 INFO] Processed instances 1000
+[2021-06-04 20:15:02,874 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-04 20:15:02,949 INFO] Processed instances 1000
+[2021-06-04 20:15:02,949 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-04 20:15:03,332 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-04 20:15:04,559 INFO] Processed instances 1000
+[2021-06-04 20:15:04,560 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-04 20:15:04,725 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-04 20:15:04,976 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-04 20:15:40,872 INFO] Processed instances 1000
+[2021-06-04 20:15:40,872 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-04 20:15:42,269 INFO] Processed instances 1000
+[2021-06-04 20:15:42,270 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-04 20:15:43,762 INFO] Processed instances 987
+[2021-06-04 20:15:43,762 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt
+[2021-06-04 20:15:44,058 INFO] Processed instances 1000
+[2021-06-04 20:15:44,058 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-04 20:26:11,593 INFO] Processing ../ext/data/json_data/train_ext/train.02000_02999.json
+[2021-06-04 20:26:11,595 INFO] Processing ../ext/data/json_data/train_ext/train.01000_01999.json
+[2021-06-04 20:26:11,597 INFO] Processing ../ext/data/json_data/train_ext/train.03000_03999.json
+[2021-06-04 20:26:11,599 INFO] Processing ../ext/data/json_data/train_ext/train.00000_00999.json
+[2021-06-04 20:26:11,599 INFO] Processing ../ext/data/json_data/train_ext/train.05000_05999.json
+[2021-06-04 20:26:11,654 INFO] Processing ../ext/data/json_data/train_ext/train.04000_04999.json
+[2021-06-04 20:27:30,389 INFO] Processed instances 1000
+[2021-06-04 20:27:30,390 INFO] Saving to ../ext/data/bert_data/train_ext/train.05000_05999.bert.pt
+[2021-06-04 20:27:30,830 INFO] Processed instances 1000
+[2021-06-04 20:27:30,830 INFO] Saving to ../ext/data/bert_data/train_ext/train.02000_02999.bert.pt
+[2021-06-04 20:27:32,462 INFO] Processed instances 1000
+[2021-06-04 20:27:32,462 INFO] Saving to ../ext/data/bert_data/train_ext/train.03000_03999.bert.pt
+[2021-06-04 20:27:32,569 INFO] Processing ../ext/data/json_data/train_ext/train.06000_06999.json
+[2021-06-04 20:27:33,011 INFO] Processing ../ext/data/json_data/train_ext/train.07000_07999.json
+[2021-06-04 20:27:33,196 INFO] Processed instances 1000
+[2021-06-04 20:27:33,196 INFO] Saving to ../ext/data/bert_data/train_ext/train.00000_00999.bert.pt
+[2021-06-04 20:27:33,362 INFO] Processed instances 1000
+[2021-06-04 20:27:33,362 INFO] Saving to ../ext/data/bert_data/train_ext/train.01000_01999.bert.pt
+[2021-06-04 20:27:33,517 INFO] Processed instances 1000
+[2021-06-04 20:27:33,517 INFO] Saving to ../ext/data/bert_data/train_ext/train.04000_04999.bert.pt
+[2021-06-04 20:27:34,675 INFO] Processing ../ext/data/json_data/train_ext/train.08000_08999.json
+[2021-06-04 20:27:35,404 INFO] Processing ../ext/data/json_data/train_ext/train.09000_09999.json
+[2021-06-04 20:27:35,497 INFO] Processing ../ext/data/json_data/train_ext/train.10000_10999.json
+[2021-06-04 20:27:35,648 INFO] Processing ../ext/data/json_data/train_ext/train.11000_11999.json
+[2021-06-04 20:28:53,126 INFO] Processed instances 1000
+[2021-06-04 20:28:53,126 INFO] Saving to ../ext/data/bert_data/train_ext/train.07000_07999.bert.pt
+[2021-06-04 20:28:55,349 INFO] Processing ../ext/data/json_data/train_ext/train.12000_12999.json
+[2021-06-04 20:28:56,820 INFO] Processed instances 1000
+[2021-06-04 20:28:56,821 INFO] Saving to ../ext/data/bert_data/train_ext/train.06000_06999.bert.pt
+[2021-06-04 20:28:58,364 INFO] Processed instances 1000
+[2021-06-04 20:28:58,365 INFO] Saving to ../ext/data/bert_data/train_ext/train.10000_10999.bert.pt
+[2021-06-04 20:28:59,057 INFO] Processing ../ext/data/json_data/train_ext/train.13000_13999.json
+[2021-06-04 20:28:59,753 INFO] Processed instances 1000
+[2021-06-04 20:28:59,753 INFO] Saving to ../ext/data/bert_data/train_ext/train.08000_08999.bert.pt
+[2021-06-04 20:28:59,784 INFO] Processed instances 1000
+[2021-06-04 20:28:59,784 INFO] Saving to ../ext/data/bert_data/train_ext/train.09000_09999.bert.pt
+[2021-06-04 20:29:00,551 INFO] Processing ../ext/data/json_data/train_ext/train.14000_14999.json
+[2021-06-04 20:29:01,958 INFO] Processing ../ext/data/json_data/train_ext/train.16000_16999.json
+[2021-06-04 20:29:01,975 INFO] Processing ../ext/data/json_data/train_ext/train.15000_15999.json
+[2021-06-04 20:29:02,094 INFO] Processed instances 1000
+[2021-06-04 20:29:02,095 INFO] Saving to ../ext/data/bert_data/train_ext/train.11000_11999.bert.pt
+[2021-06-04 20:29:04,327 INFO] Processing ../ext/data/json_data/train_ext/train.17000_17999.json
+[2021-06-04 20:30:21,178 INFO] Processed instances 1000
+[2021-06-04 20:30:21,179 INFO] Saving to ../ext/data/bert_data/train_ext/train.12000_12999.bert.pt
+[2021-06-04 20:30:23,103 INFO] Processed instances 1000
+[2021-06-04 20:30:23,104 INFO] Saving to ../ext/data/bert_data/train_ext/train.13000_13999.bert.pt
+[2021-06-04 20:30:23,409 INFO] Processing ../ext/data/json_data/train_ext/train.18000_18999.json
+[2021-06-04 20:30:25,285 INFO] Processing ../ext/data/json_data/train_ext/train.19000_19999.json
+[2021-06-04 20:30:25,968 INFO] Processed instances 1000
+[2021-06-04 20:30:25,969 INFO] Saving to ../ext/data/bert_data/train_ext/train.16000_16999.bert.pt
+[2021-06-04 20:30:26,111 INFO] Processed instances 1000
+[2021-06-04 20:30:26,111 INFO] Saving to ../ext/data/bert_data/train_ext/train.14000_14999.bert.pt
+[2021-06-04 20:30:28,070 INFO] Processed instances 1000
+[2021-06-04 20:30:28,070 INFO] Saving to ../ext/data/bert_data/train_ext/train.17000_17999.bert.pt
+[2021-06-04 20:30:28,162 INFO] Processing ../ext/data/json_data/train_ext/train.20000_20999.json
+[2021-06-04 20:30:28,318 INFO] Processing ../ext/data/json_data/train_ext/train.21000_21999.json
+[2021-06-04 20:30:30,281 INFO] Processing ../ext/data/json_data/train_ext/train.22000_22999.json
+[2021-06-04 20:30:30,392 INFO] Processed instances 1000
+[2021-06-04 20:30:30,393 INFO] Saving to ../ext/data/bert_data/train_ext/train.15000_15999.bert.pt
+[2021-06-04 20:30:32,660 INFO] Processing ../ext/data/json_data/train_ext/train.23000_23999.json
+[2021-06-04 20:31:46,505 INFO] Processed instances 1000
+[2021-06-04 20:31:46,506 INFO] Saving to ../ext/data/bert_data/train_ext/train.18000_18999.bert.pt
+[2021-06-04 20:31:48,734 INFO] Processing ../ext/data/json_data/train_ext/train.24000_24999.json
+[2021-06-04 20:31:51,107 INFO] Processed instances 1000
+[2021-06-04 20:31:51,108 INFO] Saving to ../ext/data/bert_data/train_ext/train.19000_19999.bert.pt
+[2021-06-04 20:31:53,424 INFO] Processing ../ext/data/json_data/train_ext/train.25000_25999.json
+[2021-06-04 20:31:53,777 INFO] Processed instances 1000
+[2021-06-04 20:31:53,778 INFO] Saving to ../ext/data/bert_data/train_ext/train.20000_20999.bert.pt
+[2021-06-04 20:31:55,654 INFO] Processed instances 1000
+[2021-06-04 20:31:55,654 INFO] Saving to ../ext/data/bert_data/train_ext/train.22000_22999.bert.pt
+[2021-06-04 20:31:56,000 INFO] Processing ../ext/data/json_data/train_ext/train.26000_26999.json
+[2021-06-04 20:31:56,270 INFO] Processed instances 1000
+[2021-06-04 20:31:56,271 INFO] Saving to ../ext/data/bert_data/train_ext/train.21000_21999.bert.pt
+[2021-06-04 20:31:57,850 INFO] Processing ../ext/data/json_data/train_ext/train.27000_27999.json
+[2021-06-04 20:31:58,439 INFO] Processing ../ext/data/json_data/train_ext/train.28000_28999.json
+[2021-06-04 20:32:03,463 INFO] Processed instances 1000
+[2021-06-04 20:32:03,463 INFO] Saving to ../ext/data/bert_data/train_ext/train.23000_23999.bert.pt
+[2021-06-04 20:32:05,669 INFO] Processing ../ext/data/json_data/train_ext/train.29000_29999.json
+[2021-06-04 20:33:11,760 INFO] Processed instances 1000
+[2021-06-04 20:33:11,761 INFO] Saving to ../ext/data/bert_data/train_ext/train.24000_24999.bert.pt
+[2021-06-04 20:33:13,950 INFO] Processing ../ext/data/json_data/train_ext/train.30000_30999.json
+[2021-06-04 20:33:16,479 INFO] Processed instances 1000
+[2021-06-04 20:33:16,480 INFO] Saving to ../ext/data/bert_data/train_ext/train.25000_25999.bert.pt
+[2021-06-04 20:33:16,974 INFO] Processed instances 1000
+[2021-06-04 20:33:16,974 INFO] Saving to ../ext/data/bert_data/train_ext/train.26000_26999.bert.pt
+[2021-06-04 20:33:18,683 INFO] Processing ../ext/data/json_data/train_ext/train.31000_31999.json
+[2021-06-04 20:33:19,128 INFO] Processing ../ext/data/json_data/train_ext/train.32000_32999.json
+[2021-06-04 20:33:20,021 INFO] Processed instances 1000
+[2021-06-04 20:33:20,022 INFO] Saving to ../ext/data/bert_data/train_ext/train.28000_28999.bert.pt
+[2021-06-04 20:33:22,210 INFO] Processing ../ext/data/json_data/train_ext/train.33000_33999.json
+[2021-06-04 20:33:23,421 INFO] Processed instances 1000
+[2021-06-04 20:33:23,422 INFO] Saving to ../ext/data/bert_data/train_ext/train.27000_27999.bert.pt
+[2021-06-04 20:33:25,644 INFO] Processing ../ext/data/json_data/train_ext/train.34000_34999.json
+[2021-06-04 20:33:28,400 INFO] Processed instances 1000
+[2021-06-04 20:33:28,401 INFO] Saving to ../ext/data/bert_data/train_ext/train.29000_29999.bert.pt
+[2021-06-04 20:33:30,669 INFO] Processing ../ext/data/json_data/train_ext/train.35000_35999.json
+[2021-06-04 20:34:36,497 INFO] Processed instances 1000
+[2021-06-04 20:34:36,497 INFO] Saving to ../ext/data/bert_data/train_ext/train.30000_30999.bert.pt
+[2021-06-04 20:34:38,686 INFO] Processing ../ext/data/json_data/train_ext/train.36000_36999.json
+[2021-06-04 20:34:42,754 INFO] Processed instances 1000
+[2021-06-04 20:34:42,755 INFO] Saving to ../ext/data/bert_data/train_ext/train.32000_32999.bert.pt
+[2021-06-04 20:34:44,981 INFO] Processing ../ext/data/json_data/train_ext/train.37000_37999.json
+[2021-06-04 20:34:45,030 INFO] Processed instances 1000
+[2021-06-04 20:34:45,031 INFO] Saving to ../ext/data/bert_data/train_ext/train.31000_31999.bert.pt
+[2021-06-04 20:34:46,536 INFO] Processed instances 1000
+[2021-06-04 20:34:46,537 INFO] Saving to ../ext/data/bert_data/train_ext/train.33000_33999.bert.pt
+[2021-06-04 20:34:47,165 INFO] Processing ../ext/data/json_data/train_ext/train.38000_38999.json
+[2021-06-04 20:34:48,722 INFO] Processing ../ext/data/json_data/train_ext/train.39000_39999.json
+[2021-06-04 20:34:51,807 INFO] Processed instances 1000
+[2021-06-04 20:34:51,808 INFO] Saving to ../ext/data/bert_data/train_ext/train.34000_34999.bert.pt
+[2021-06-04 20:34:54,010 INFO] Processing ../ext/data/json_data/train_ext/train.40000_40999.json
+[2021-06-04 20:34:55,724 INFO] Processed instances 1000
+[2021-06-04 20:34:55,725 INFO] Saving to ../ext/data/bert_data/train_ext/train.35000_35999.bert.pt
+[2021-06-04 20:34:57,965 INFO] Processing ../ext/data/json_data/train_ext/train.41000_41999.json
+[2021-06-04 20:35:59,141 INFO] Processed instances 1000
+[2021-06-04 20:35:59,142 INFO] Saving to ../ext/data/bert_data/train_ext/train.36000_36999.bert.pt
+[2021-06-04 20:36:01,614 INFO] Processing ../ext/data/json_data/train_ext/train.42000_42999.json
+[2021-06-04 20:36:02,532 INFO] Processed instances 1000
+[2021-06-04 20:36:02,532 INFO] Saving to ../ext/data/bert_data/train_ext/train.37000_37999.bert.pt
+[2021-06-04 20:36:04,132 INFO] Processed instances 1000
+[2021-06-04 20:36:04,132 INFO] Saving to ../ext/data/bert_data/train_ext/train.39000_39999.bert.pt
+[2021-06-04 20:36:04,688 INFO] Processing ../ext/data/json_data/train_ext/train.43000_43999.json
+[2021-06-04 20:36:06,191 INFO] Processed instances 1000
+[2021-06-04 20:36:06,191 INFO] Saving to ../ext/data/bert_data/train_ext/train.38000_38999.bert.pt
+[2021-06-04 20:36:06,396 INFO] Processing ../ext/data/json_data/train_ext/train.44000_44999.json
+[2021-06-04 20:36:08,372 INFO] Processing ../ext/data/json_data/train_ext/train.45000_45999.json
+[2021-06-04 20:36:12,810 INFO] Processed instances 1000
+[2021-06-04 20:36:12,810 INFO] Saving to ../ext/data/bert_data/train_ext/train.40000_40999.bert.pt
+[2021-06-04 20:36:14,971 INFO] Processing ../ext/data/json_data/train_ext/train.46000_46999.json
+[2021-06-04 20:36:15,239 INFO] Processed instances 1000
+[2021-06-04 20:36:15,239 INFO] Saving to ../ext/data/bert_data/train_ext/train.41000_41999.bert.pt
+[2021-06-04 20:36:17,563 INFO] Processing ../ext/data/json_data/train_ext/train.47000_47999.json
+[2021-06-04 20:37:21,462 INFO] Processed instances 1000
+[2021-06-04 20:37:21,463 INFO] Saving to ../ext/data/bert_data/train_ext/train.42000_42999.bert.pt
+[2021-06-04 20:37:23,693 INFO] Processing ../ext/data/json_data/train_ext/train.48000_48999.json
+[2021-06-04 20:37:26,784 INFO] Processed instances 1000
+[2021-06-04 20:37:26,786 INFO] Saving to ../ext/data/bert_data/train_ext/train.43000_43999.bert.pt
+[2021-06-04 20:37:26,969 INFO] Processed instances 1000
+[2021-06-04 20:37:26,969 INFO] Saving to ../ext/data/bert_data/train_ext/train.44000_44999.bert.pt
+[2021-06-04 20:37:28,984 INFO] Processing ../ext/data/json_data/train_ext/train.49000_49999.json
+[2021-06-04 20:37:29,303 INFO] Processing ../ext/data/json_data/train_ext/train.50000_50999.json
+[2021-06-04 20:37:30,706 INFO] Processed instances 1000
+[2021-06-04 20:37:30,706 INFO] Saving to ../ext/data/bert_data/train_ext/train.45000_45999.bert.pt
+[2021-06-04 20:37:33,082 INFO] Processing ../ext/data/json_data/train_ext/train.51000_51999.json
+[2021-06-04 20:37:37,396 INFO] Processed instances 1000
+[2021-06-04 20:37:37,396 INFO] Saving to ../ext/data/bert_data/train_ext/train.46000_46999.bert.pt
+[2021-06-04 20:37:39,686 INFO] Processing ../ext/data/json_data/train_ext/train.52000_52999.json
+[2021-06-04 20:37:41,905 INFO] Processed instances 1000
+[2021-06-04 20:37:41,905 INFO] Saving to ../ext/data/bert_data/train_ext/train.47000_47999.bert.pt
+[2021-06-04 20:37:44,125 INFO] Processing ../ext/data/json_data/train_ext/train.53000_53999.json
+[2021-06-04 20:38:48,448 INFO] Processed instances 1000
+[2021-06-04 20:38:48,449 INFO] Saving to ../ext/data/bert_data/train_ext/train.48000_48999.bert.pt
+[2021-06-04 20:38:50,700 INFO] Processing ../ext/data/json_data/train_ext/train.54000_54999.json
+[2021-06-04 20:38:52,255 INFO] Processed instances 1000
+[2021-06-04 20:38:52,256 INFO] Saving to ../ext/data/bert_data/train_ext/train.49000_49999.bert.pt
+[2021-06-04 20:38:54,473 INFO] Processing ../ext/data/json_data/train_ext/train.55000_55999.json
+[2021-06-04 20:38:57,093 INFO] Processed instances 1000
+[2021-06-04 20:38:57,093 INFO] Saving to ../ext/data/bert_data/train_ext/train.50000_50999.bert.pt
+[2021-06-04 20:38:57,968 INFO] Processed instances 1000
+[2021-06-04 20:38:57,969 INFO] Saving to ../ext/data/bert_data/train_ext/train.51000_51999.bert.pt
+[2021-06-04 20:38:59,317 INFO] Processing ../ext/data/json_data/train_ext/train.56000_56999.json
+[2021-06-04 20:39:00,167 INFO] Processing ../ext/data/json_data/train_ext/train.57000_57999.json
+[2021-06-04 20:39:04,386 INFO] Processed instances 1000
+[2021-06-04 20:39:04,388 INFO] Saving to ../ext/data/bert_data/train_ext/train.52000_52999.bert.pt
+[2021-06-04 20:39:06,574 INFO] Processing ../ext/data/json_data/train_ext/train.58000_58999.json
+[2021-06-04 20:39:07,823 INFO] Processed instances 1000
+[2021-06-04 20:39:07,823 INFO] Saving to ../ext/data/bert_data/train_ext/train.53000_53999.bert.pt
+[2021-06-04 20:39:10,146 INFO] Processing ../ext/data/json_data/train_ext/train.59000_59801.json
+[2021-06-04 20:40:11,479 INFO] Processed instances 1000
+[2021-06-04 20:40:11,480 INFO] Saving to ../ext/data/bert_data/train_ext/train.54000_54999.bert.pt
+[2021-06-04 20:40:13,701 INFO] Processed instances 1000
+[2021-06-04 20:40:13,701 INFO] Saving to ../ext/data/bert_data/train_ext/train.55000_55999.bert.pt
+[2021-06-04 20:40:14,301 INFO] Processed instances 802
+[2021-06-04 20:40:14,301 INFO] Saving to ../ext/data/bert_data/train_ext/train.59000_59801.bert.pt
+[2021-06-04 20:40:17,143 INFO] Processed instances 1000
+[2021-06-04 20:40:17,143 INFO] Saving to ../ext/data/bert_data/train_ext/train.56000_56999.bert.pt
+[2021-06-04 20:40:17,942 INFO] Processed instances 1000
+[2021-06-04 20:40:17,943 INFO] Saving to ../ext/data/bert_data/train_ext/train.57000_57999.bert.pt
+[2021-06-04 20:40:28,529 INFO] Processed instances 1000
+[2021-06-04 20:40:28,530 INFO] Saving to ../ext/data/bert_data/train_ext/train.58000_58999.bert.pt
+[2021-06-04 20:40:57,262 INFO] Processing ../ext/data/json_data/valid_ext/valid.0000_0999.json
+[2021-06-04 20:40:57,264 INFO] Processing ../ext/data/json_data/valid_ext/valid.3000_3146.json
+[2021-06-04 20:40:57,282 INFO] Processing ../ext/data/json_data/valid_ext/valid.1000_1999.json
+[2021-06-04 20:40:57,460 INFO] Processing ../ext/data/json_data/valid_ext/valid.2000_2999.json
+[2021-06-04 20:41:06,931 INFO] Processed instances 147
+[2021-06-04 20:41:06,932 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.3000_3146.bert.pt
+[2021-06-04 20:42:02,730 INFO] Processed instances 1000
+[2021-06-04 20:42:02,731 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.2000_2999.bert.pt
+[2021-06-04 20:42:03,064 INFO] Processed instances 1000
+[2021-06-04 20:42:03,064 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt
+[2021-06-04 20:42:05,134 INFO] Processed instances 1000
+[2021-06-04 20:42:05,135 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt
+[2021-06-04 20:52:28,980 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-04 20:52:28,980 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-04 20:52:28,980 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-04 20:52:28,998 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-04 20:53:04,701 INFO] Processed instances 1000
+[2021-06-04 20:53:04,701 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-04 20:53:05,473 INFO] Processed instances 1000
+[2021-06-04 20:53:05,473 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-04 20:53:06,488 INFO] Processed instances 1000
+[2021-06-04 20:53:06,488 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-04 20:53:06,741 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-04 20:53:06,840 INFO] Processed instances 1000
+[2021-06-04 20:53:06,841 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-04 20:53:07,531 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-04 20:53:08,552 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-04 20:53:08,913 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-04 20:53:43,979 INFO] Processed instances 1000
+[2021-06-04 20:53:43,979 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-04 20:53:44,828 INFO] Processed instances 1000
+[2021-06-04 20:53:44,829 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-04 20:53:45,113 INFO] Processed instances 1000
+[2021-06-04 20:53:45,114 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-04 20:53:45,307 INFO] Processed instances 1000
+[2021-06-04 20:53:45,308 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-04 20:53:46,118 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-04 20:53:46,889 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-04 20:54:22,310 INFO] Processed instances 1000
+[2021-06-04 20:54:22,310 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-04 20:54:22,832 INFO] Processed instances 987
+[2021-06-04 20:54:22,833 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt
+[2021-06-05 17:07:46,398 INFO] Processing ../ext/data/json_data/train_ext/train.02000_02999.json
+[2021-06-05 17:07:46,399 INFO] Processing ../ext/data/json_data/train_ext/train.00000_00999.json
+[2021-06-05 17:07:46,400 INFO] Processing ../ext/data/json_data/train_ext/train.03000_03999.json
+[2021-06-05 17:07:46,404 INFO] Processing ../ext/data/json_data/train_ext/train.01000_01999.json
+[2021-06-05 17:08:55,612 INFO] Processed instances 1000
+[2021-06-05 17:08:55,613 INFO] Saving to ../ext/data/bert_data/train_ext/train.02000_02999.bert.pt
+[2021-06-05 17:08:56,856 INFO] Processed instances 1000
+[2021-06-05 17:08:56,857 INFO] Saving to ../ext/data/bert_data/train_ext/train.00000_00999.bert.pt
+[2021-06-05 17:08:57,862 INFO] Processing ../ext/data/json_data/train_ext/train.04000_04999.json
+[2021-06-05 17:08:57,871 INFO] Processed instances 1000
+[2021-06-05 17:08:57,872 INFO] Saving to ../ext/data/bert_data/train_ext/train.01000_01999.bert.pt
+[2021-06-05 17:08:59,002 INFO] Processing ../ext/data/json_data/train_ext/train.05000_05999.json
+[2021-06-05 17:08:59,999 INFO] Processing ../ext/data/json_data/train_ext/train.06000_06999.json
+[2021-06-05 17:09:00,046 INFO] Processed instances 1000
+[2021-06-05 17:09:00,047 INFO] Saving to ../ext/data/bert_data/train_ext/train.03000_03999.bert.pt
+[2021-06-05 17:09:02,206 INFO] Processing ../ext/data/json_data/train_ext/train.07000_07999.json
+[2021-06-05 17:10:06,709 INFO] Processed instances 1000
+[2021-06-05 17:10:06,709 INFO] Saving to ../ext/data/bert_data/train_ext/train.05000_05999.bert.pt
+[2021-06-05 17:10:07,648 INFO] Processed instances 1000
+[2021-06-05 17:10:07,648 INFO] Saving to ../ext/data/bert_data/train_ext/train.04000_04999.bert.pt
+[2021-06-05 17:10:08,871 INFO] Processing ../ext/data/json_data/train_ext/train.08000_08999.json
+[2021-06-05 17:10:10,716 INFO] Processing ../ext/data/json_data/train_ext/train.09000_09999.json
+[2021-06-05 17:10:11,161 INFO] Processed instances 1000
+[2021-06-05 17:10:11,162 INFO] Saving to ../ext/data/bert_data/train_ext/train.06000_06999.bert.pt
+[2021-06-05 17:10:11,690 INFO] Processed instances 1000
+[2021-06-05 17:10:11,690 INFO] Saving to ../ext/data/bert_data/train_ext/train.07000_07999.bert.pt
+[2021-06-05 17:10:13,354 INFO] Processing ../ext/data/json_data/train_ext/train.10000_10999.json
+[2021-06-05 17:10:13,838 INFO] Processing ../ext/data/json_data/train_ext/train.11000_11999.json
+[2021-06-05 17:11:20,126 INFO] Processed instances 1000
+[2021-06-05 17:11:20,127 INFO] Saving to ../ext/data/bert_data/train_ext/train.08000_08999.bert.pt
+[2021-06-05 17:11:21,192 INFO] Processed instances 1000
+[2021-06-05 17:11:21,192 INFO] Saving to ../ext/data/bert_data/train_ext/train.09000_09999.bert.pt
+[2021-06-05 17:11:22,290 INFO] Processing ../ext/data/json_data/train_ext/train.12000_12999.json
+[2021-06-05 17:11:22,443 INFO] Processed instances 1000
+[2021-06-05 17:11:22,444 INFO] Saving to ../ext/data/bert_data/train_ext/train.10000_10999.bert.pt
+[2021-06-05 17:11:23,266 INFO] Processing ../ext/data/json_data/train_ext/train.13000_13999.json
+[2021-06-05 17:11:23,963 INFO] Processed instances 1000
+[2021-06-05 17:11:23,964 INFO] Saving to ../ext/data/bert_data/train_ext/train.11000_11999.bert.pt
+[2021-06-05 17:11:24,515 INFO] Processing ../ext/data/json_data/train_ext/train.14000_14999.json
+[2021-06-05 17:11:26,117 INFO] Processing ../ext/data/json_data/train_ext/train.15000_15999.json
+[2021-06-05 17:12:31,777 INFO] Processed instances 1000
+[2021-06-05 17:12:31,777 INFO] Saving to ../ext/data/bert_data/train_ext/train.13000_13999.bert.pt
+[2021-06-05 17:12:32,287 INFO] Processed instances 1000
+[2021-06-05 17:12:32,287 INFO] Saving to ../ext/data/bert_data/train_ext/train.12000_12999.bert.pt
+[2021-06-05 17:12:33,910 INFO] Processed instances 1000
+[2021-06-05 17:12:33,910 INFO] Saving to ../ext/data/bert_data/train_ext/train.14000_14999.bert.pt
+[2021-06-05 17:12:33,939 INFO] Processing ../ext/data/json_data/train_ext/train.16000_16999.json
+[2021-06-05 17:12:34,438 INFO] Processing ../ext/data/json_data/train_ext/train.17000_17999.json
+[2021-06-05 17:12:36,058 INFO] Processing ../ext/data/json_data/train_ext/train.18000_18999.json
+[2021-06-05 17:12:38,329 INFO] Processed instances 1000
+[2021-06-05 17:12:38,330 INFO] Saving to ../ext/data/bert_data/train_ext/train.15000_15999.bert.pt
+[2021-06-05 17:12:40,507 INFO] Processing ../ext/data/json_data/train_ext/train.19000_19999.json
+[2021-06-05 17:13:45,256 INFO] Processed instances 1000
+[2021-06-05 17:13:45,257 INFO] Saving to ../ext/data/bert_data/train_ext/train.16000_16999.bert.pt
+[2021-06-05 17:13:46,099 INFO] Processed instances 1000
+[2021-06-05 17:13:46,100 INFO] Saving to ../ext/data/bert_data/train_ext/train.18000_18999.bert.pt
+[2021-06-05 17:13:46,354 INFO] Processed instances 1000
+[2021-06-05 17:13:46,354 INFO] Saving to ../ext/data/bert_data/train_ext/train.17000_17999.bert.pt
+[2021-06-05 17:13:47,401 INFO] Processing ../ext/data/json_data/train_ext/train.20000_20999.json
+[2021-06-05 17:13:48,214 INFO] Processing ../ext/data/json_data/train_ext/train.21000_21999.json
+[2021-06-05 17:13:48,463 INFO] Processing ../ext/data/json_data/train_ext/train.22000_22999.json
+[2021-06-05 17:13:56,280 INFO] Processed instances 1000
+[2021-06-05 17:13:56,281 INFO] Saving to ../ext/data/bert_data/train_ext/train.19000_19999.bert.pt
+[2021-06-05 17:13:58,740 INFO] Processing ../ext/data/json_data/train_ext/train.23000_23999.json
+[2021-06-05 17:14:59,171 INFO] Processed instances 1000
+[2021-06-05 17:14:59,172 INFO] Saving to ../ext/data/bert_data/train_ext/train.20000_20999.bert.pt
+[2021-06-05 17:14:59,503 INFO] Processed instances 1000
+[2021-06-05 17:14:59,504 INFO] Saving to ../ext/data/bert_data/train_ext/train.22000_22999.bert.pt
+[2021-06-05 17:15:01,330 INFO] Processing ../ext/data/json_data/train_ext/train.24000_24999.json
+[2021-06-05 17:15:01,611 INFO] Processing ../ext/data/json_data/train_ext/train.25000_25999.json
+[2021-06-05 17:15:02,002 INFO] Processed instances 1000
+[2021-06-05 17:15:02,002 INFO] Saving to ../ext/data/bert_data/train_ext/train.21000_21999.bert.pt
+[2021-06-05 17:15:04,182 INFO] Processing ../ext/data/json_data/train_ext/train.26000_26999.json
+[2021-06-05 17:15:14,624 INFO] Processed instances 1000
+[2021-06-05 17:15:14,624 INFO] Saving to ../ext/data/bert_data/train_ext/train.23000_23999.bert.pt
+[2021-06-05 17:15:16,783 INFO] Processing ../ext/data/json_data/train_ext/train.27000_27999.json
+[2021-06-05 17:16:17,090 INFO] Processed instances 1000
+[2021-06-05 17:16:17,090 INFO] Saving to ../ext/data/bert_data/train_ext/train.24000_24999.bert.pt
+[2021-06-05 17:16:17,720 INFO] Processed instances 1000
+[2021-06-05 17:16:17,720 INFO] Saving to ../ext/data/bert_data/train_ext/train.25000_25999.bert.pt
+[2021-06-05 17:16:19,247 INFO] Processing ../ext/data/json_data/train_ext/train.28000_28999.json
+[2021-06-05 17:16:19,840 INFO] Processing ../ext/data/json_data/train_ext/train.29000_29999.json
+[2021-06-05 17:16:21,480 INFO] Processed instances 1000
+[2021-06-05 17:16:21,481 INFO] Saving to ../ext/data/bert_data/train_ext/train.26000_26999.bert.pt
+[2021-06-05 17:16:23,646 INFO] Processing ../ext/data/json_data/train_ext/train.30000_30999.json
+[2021-06-05 17:16:35,694 INFO] Processed instances 1000
+[2021-06-05 17:16:35,695 INFO] Saving to ../ext/data/bert_data/train_ext/train.27000_27999.bert.pt
+[2021-06-05 17:16:37,895 INFO] Processing ../ext/data/json_data/train_ext/train.31000_31999.json
+[2021-06-05 17:17:31,783 INFO] Processed instances 1000
+[2021-06-05 17:17:31,783 INFO] Saving to ../ext/data/bert_data/train_ext/train.28000_28999.bert.pt
+[2021-06-05 17:17:34,062 INFO] Processing ../ext/data/json_data/train_ext/train.32000_32999.json
+[2021-06-05 17:17:34,428 INFO] Processed instances 1000
+[2021-06-05 17:17:34,429 INFO] Saving to ../ext/data/bert_data/train_ext/train.29000_29999.bert.pt
+[2021-06-05 17:17:36,586 INFO] Processing ../ext/data/json_data/train_ext/train.33000_33999.json
+[2021-06-05 17:17:39,377 INFO] Processed instances 1000
+[2021-06-05 17:17:39,378 INFO] Saving to ../ext/data/bert_data/train_ext/train.30000_30999.bert.pt
+[2021-06-05 17:17:41,617 INFO] Processing ../ext/data/json_data/train_ext/train.34000_34999.json
+[2021-06-05 17:17:54,871 INFO] Processed instances 1000
+[2021-06-05 17:17:54,872 INFO] Saving to ../ext/data/bert_data/train_ext/train.31000_31999.bert.pt
+[2021-06-05 17:17:57,027 INFO] Processing ../ext/data/json_data/train_ext/train.35000_35999.json
+[2021-06-05 17:18:45,289 INFO] Processed instances 1000
+[2021-06-05 17:18:45,289 INFO] Saving to ../ext/data/bert_data/train_ext/train.32000_32999.bert.pt
+[2021-06-05 17:18:47,375 INFO] Processing ../ext/data/json_data/train_ext/train.36000_36999.json
+[2021-06-05 17:18:48,224 INFO] Processed instances 1000
+[2021-06-05 17:18:48,225 INFO] Saving to ../ext/data/bert_data/train_ext/train.33000_33999.bert.pt
+[2021-06-05 17:18:50,354 INFO] Processing ../ext/data/json_data/train_ext/train.37000_37999.json
+[2021-06-05 17:18:55,425 INFO] Processed instances 1000
+[2021-06-05 17:18:55,425 INFO] Saving to ../ext/data/bert_data/train_ext/train.34000_34999.bert.pt
+[2021-06-05 17:18:57,549 INFO] Processing ../ext/data/json_data/train_ext/train.38000_38999.json
+[2021-06-05 17:19:07,966 INFO] Processed instances 1000
+[2021-06-05 17:19:07,967 INFO] Saving to ../ext/data/bert_data/train_ext/train.35000_35999.bert.pt
+[2021-06-05 17:19:10,100 INFO] Processing ../ext/data/json_data/train_ext/train.39000_39999.json
+[2021-06-05 17:19:55,697 INFO] Processed instances 1000
+[2021-06-05 17:19:55,697 INFO] Saving to ../ext/data/bert_data/train_ext/train.36000_36999.bert.pt
+[2021-06-05 17:19:57,774 INFO] Processing ../ext/data/json_data/train_ext/train.40000_40999.json
+[2021-06-05 17:19:59,929 INFO] Processed instances 1000
+[2021-06-05 17:19:59,930 INFO] Saving to ../ext/data/bert_data/train_ext/train.37000_37999.bert.pt
+[2021-06-05 17:20:02,083 INFO] Processing ../ext/data/json_data/train_ext/train.41000_41999.json
+[2021-06-05 17:20:11,585 INFO] Processed instances 1000
+[2021-06-05 17:20:11,585 INFO] Saving to ../ext/data/bert_data/train_ext/train.38000_38999.bert.pt
+[2021-06-05 17:20:13,692 INFO] Processing ../ext/data/json_data/train_ext/train.42000_42999.json
+[2021-06-05 17:20:17,332 INFO] Processed instances 1000
+[2021-06-05 17:20:17,333 INFO] Saving to ../ext/data/bert_data/train_ext/train.39000_39999.bert.pt
+[2021-06-05 17:20:19,477 INFO] Processing ../ext/data/json_data/train_ext/train.43000_43999.json
+[2021-06-05 17:21:07,829 INFO] Processed instances 1000
+[2021-06-05 17:21:07,830 INFO] Saving to ../ext/data/bert_data/train_ext/train.40000_40999.bert.pt
+[2021-06-05 17:21:09,986 INFO] Processing ../ext/data/json_data/train_ext/train.44000_44999.json
+[2021-06-05 17:21:11,056 INFO] Processed instances 1000
+[2021-06-05 17:21:11,056 INFO] Saving to ../ext/data/bert_data/train_ext/train.41000_41999.bert.pt
+[2021-06-05 17:21:13,187 INFO] Processing ../ext/data/json_data/train_ext/train.45000_45999.json
+[2021-06-05 17:21:23,260 INFO] Processed instances 1000
+[2021-06-05 17:21:23,261 INFO] Saving to ../ext/data/bert_data/train_ext/train.42000_42999.bert.pt
+[2021-06-05 17:21:25,458 INFO] Processing ../ext/data/json_data/train_ext/train.46000_46999.json
+[2021-06-05 17:21:28,788 INFO] Processed instances 1000
+[2021-06-05 17:21:28,789 INFO] Saving to ../ext/data/bert_data/train_ext/train.43000_43999.bert.pt
+[2021-06-05 17:21:30,902 INFO] Processing ../ext/data/json_data/train_ext/train.47000_47999.json
+[2021-06-05 17:22:17,345 INFO] Processed instances 1000
+[2021-06-05 17:22:17,346 INFO] Saving to ../ext/data/bert_data/train_ext/train.44000_44999.bert.pt
+[2021-06-05 17:22:19,558 INFO] Processing ../ext/data/json_data/train_ext/train.48000_48999.json
+[2021-06-05 17:22:24,804 INFO] Processed instances 1000
+[2021-06-05 17:22:24,804 INFO] Saving to ../ext/data/bert_data/train_ext/train.45000_45999.bert.pt
+[2021-06-05 17:22:26,969 INFO] Processing ../ext/data/json_data/train_ext/train.49000_49999.json
+[2021-06-05 17:22:33,038 INFO] Processed instances 1000
+[2021-06-05 17:22:33,039 INFO] Saving to ../ext/data/bert_data/train_ext/train.46000_46999.bert.pt
+[2021-06-05 17:22:35,163 INFO] Processing ../ext/data/json_data/train_ext/train.50000_50999.json
+[2021-06-05 17:22:39,648 INFO] Processed instances 1000
+[2021-06-05 17:22:39,649 INFO] Saving to ../ext/data/bert_data/train_ext/train.47000_47999.bert.pt
+[2021-06-05 17:22:41,779 INFO] Processing ../ext/data/json_data/train_ext/train.51000_51999.json
+[2021-06-05 17:23:27,710 INFO] Processed instances 1000
+[2021-06-05 17:23:27,711 INFO] Saving to ../ext/data/bert_data/train_ext/train.48000_48999.bert.pt
+[2021-06-05 17:23:29,797 INFO] Processing ../ext/data/json_data/train_ext/train.52000_52999.json
+[2021-06-05 17:23:37,329 INFO] Processed instances 1000
+[2021-06-05 17:23:37,330 INFO] Saving to ../ext/data/bert_data/train_ext/train.49000_49999.bert.pt
+[2021-06-05 17:23:39,438 INFO] Processing ../ext/data/json_data/train_ext/train.53000_53999.json
+[2021-06-05 17:23:44,883 INFO] Processed instances 1000
+[2021-06-05 17:23:44,883 INFO] Saving to ../ext/data/bert_data/train_ext/train.50000_50999.bert.pt
+[2021-06-05 17:23:46,963 INFO] Processing ../ext/data/json_data/train_ext/train.54000_54999.json
+[2021-06-05 17:23:50,310 INFO] Processed instances 1000
+[2021-06-05 17:23:50,310 INFO] Saving to ../ext/data/bert_data/train_ext/train.51000_51999.bert.pt
+[2021-06-05 17:23:52,415 INFO] Processing ../ext/data/json_data/train_ext/train.55000_55999.json
+[2021-06-05 17:24:38,756 INFO] Processed instances 1000
+[2021-06-05 17:24:38,756 INFO] Saving to ../ext/data/bert_data/train_ext/train.52000_52999.bert.pt
+[2021-06-05 17:24:40,902 INFO] Processing ../ext/data/json_data/train_ext/train.56000_56999.json
+[2021-06-05 17:24:52,380 INFO] Processed instances 1000
+[2021-06-05 17:24:52,381 INFO] Saving to ../ext/data/bert_data/train_ext/train.53000_53999.bert.pt
+[2021-06-05 17:24:54,568 INFO] Processing ../ext/data/json_data/train_ext/train.57000_57999.json
+[2021-06-05 17:24:58,207 INFO] Processed instances 1000
+[2021-06-05 17:24:58,208 INFO] Saving to ../ext/data/bert_data/train_ext/train.54000_54999.bert.pt
+[2021-06-05 17:25:00,311 INFO] Processing ../ext/data/json_data/train_ext/train.58000_58999.json
+[2021-06-05 17:25:02,109 INFO] Processed instances 1000
+[2021-06-05 17:25:02,109 INFO] Saving to ../ext/data/bert_data/train_ext/train.55000_55999.bert.pt
+[2021-06-05 17:25:04,600 INFO] Processing ../ext/data/json_data/train_ext/train.59000_59801.json
+[2021-06-05 17:25:51,077 INFO] Processed instances 1000
+[2021-06-05 17:25:51,077 INFO] Saving to ../ext/data/bert_data/train_ext/train.56000_56999.bert.pt
+[2021-06-05 17:26:00,708 INFO] Processed instances 802
+[2021-06-05 17:26:00,709 INFO] Saving to ../ext/data/bert_data/train_ext/train.59000_59801.bert.pt
+[2021-06-05 17:26:05,162 INFO] Processed instances 1000
+[2021-06-05 17:26:05,163 INFO] Saving to ../ext/data/bert_data/train_ext/train.57000_57999.bert.pt
+[2021-06-05 17:26:10,712 INFO] Processed instances 1000
+[2021-06-05 17:26:10,712 INFO] Saving to ../ext/data/bert_data/train_ext/train.58000_58999.bert.pt
+[2021-06-05 17:26:38,106 INFO] Processing ../ext/data/json_data/valid_ext/valid.0000_0999.json
+[2021-06-05 17:26:38,108 INFO] Processing ../ext/data/json_data/valid_ext/valid.1000_1999.json
+[2021-06-05 17:26:38,117 INFO] Processing ../ext/data/json_data/valid_ext/valid.2000_2999.json
+[2021-06-05 17:26:38,123 INFO] Processing ../ext/data/json_data/valid_ext/valid.3000_3146.json
+[2021-06-05 17:26:47,874 INFO] Processed instances 147
+[2021-06-05 17:26:47,874 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.3000_3146.bert.pt
+[2021-06-05 17:27:42,513 INFO] Processed instances 1000
+[2021-06-05 17:27:42,514 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.2000_2999.bert.pt
+[2021-06-05 17:27:42,849 INFO] Processed instances 1000
+[2021-06-05 17:27:42,849 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt
+[2021-06-05 17:27:46,382 INFO] Processed instances 1000
+[2021-06-05 17:27:46,383 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt
+[2021-06-05 17:28:31,669 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-05 17:28:31,669 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-05 17:28:31,676 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-05 17:28:31,715 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-05 17:29:08,778 INFO] Processed instances 1000
+[2021-06-05 17:29:08,778 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-05 17:29:09,062 INFO] Processed instances 1000
+[2021-06-05 17:29:09,063 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-05 17:29:09,828 INFO] Processed instances 1000
+[2021-06-05 17:29:09,829 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-05 17:29:10,261 INFO] Processed instances 1000
+[2021-06-05 17:29:10,261 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-05 17:29:10,929 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-05 17:29:11,169 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-05 17:29:11,907 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-05 17:29:12,352 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-05 17:29:47,742 INFO] Processed instances 1000
+[2021-06-05 17:29:47,742 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-05 17:29:48,496 INFO] Processed instances 1000
+[2021-06-05 17:29:48,496 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-05 17:29:48,572 INFO] Processed instances 1000
+[2021-06-05 17:29:48,573 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-05 17:29:49,869 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-05 17:29:50,668 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-05 17:29:51,185 INFO] Processed instances 1000
+[2021-06-05 17:29:51,185 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-05 17:30:26,530 INFO] Processed instances 1000
+[2021-06-05 17:30:26,531 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-05 17:30:26,624 INFO] Processed instances 987
+[2021-06-05 17:30:26,624 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt
+[2021-06-05 17:35:43,019 INFO] Processing ../ext/data/json_data/train_ext/train.02000_02999.json
+[2021-06-05 17:35:43,021 INFO] Processing ../ext/data/json_data/train_ext/train.01000_01999.json
+[2021-06-05 17:35:43,026 INFO] Processing ../ext/data/json_data/train_ext/train.00000_00999.json
+[2021-06-05 17:35:43,045 INFO] Processing ../ext/data/json_data/train_ext/train.03000_03999.json
+[2021-06-05 17:36:50,165 INFO] Processed instances 1000
+[2021-06-05 17:36:50,165 INFO] Saving to ../ext/data/bert_data/train_ext/train.01000_01999.bert.pt
+[2021-06-05 17:36:51,412 INFO] Processed instances 1000
+[2021-06-05 17:36:51,412 INFO] Saving to ../ext/data/bert_data/train_ext/train.00000_00999.bert.pt
+[2021-06-05 17:36:51,849 INFO] Processed instances 1000
+[2021-06-05 17:36:51,849 INFO] Saving to ../ext/data/bert_data/train_ext/train.03000_03999.bert.pt
+[2021-06-05 17:36:52,301 INFO] Processing ../ext/data/json_data/train_ext/train.04000_04999.json
+[2021-06-05 17:36:53,576 INFO] Processing ../ext/data/json_data/train_ext/train.05000_05999.json
+[2021-06-05 17:36:53,670 INFO] Processed instances 1000
+[2021-06-05 17:36:53,670 INFO] Saving to ../ext/data/bert_data/train_ext/train.02000_02999.bert.pt
+[2021-06-05 17:36:53,930 INFO] Processing ../ext/data/json_data/train_ext/train.06000_06999.json
+[2021-06-05 17:36:55,809 INFO] Processing ../ext/data/json_data/train_ext/train.07000_07999.json
+[2021-06-05 17:38:00,109 INFO] Processed instances 1000
+[2021-06-05 17:38:00,110 INFO] Saving to ../ext/data/bert_data/train_ext/train.04000_04999.bert.pt
+[2021-06-05 17:38:02,190 INFO] Processed instances 1000
+[2021-06-05 17:38:02,191 INFO] Saving to ../ext/data/bert_data/train_ext/train.06000_06999.bert.pt
+[2021-06-05 17:38:02,328 INFO] Processing ../ext/data/json_data/train_ext/train.08000_08999.json
+[2021-06-05 17:38:04,309 INFO] Processing ../ext/data/json_data/train_ext/train.09000_09999.json
+[2021-06-05 17:38:04,468 INFO] Processed instances 1000
+[2021-06-05 17:38:04,468 INFO] Saving to ../ext/data/bert_data/train_ext/train.05000_05999.bert.pt
+[2021-06-05 17:38:06,471 INFO] Processed instances 1000
+[2021-06-05 17:38:06,471 INFO] Saving to ../ext/data/bert_data/train_ext/train.07000_07999.bert.pt
+[2021-06-05 17:38:06,606 INFO] Processing ../ext/data/json_data/train_ext/train.10000_10999.json
+[2021-06-05 17:38:08,638 INFO] Processing ../ext/data/json_data/train_ext/train.11000_11999.json
+[2021-06-05 17:39:09,144 INFO] Processed instances 1000
+[2021-06-05 17:39:09,145 INFO] Saving to ../ext/data/bert_data/train_ext/train.08000_08999.bert.pt
+[2021-06-05 17:39:11,342 INFO] Processing ../ext/data/json_data/train_ext/train.12000_12999.json
+[2021-06-05 17:39:11,829 INFO] Processed instances 1000
+[2021-06-05 17:39:11,829 INFO] Saving to ../ext/data/bert_data/train_ext/train.09000_09999.bert.pt
+[2021-06-05 17:39:14,175 INFO] Processing ../ext/data/json_data/train_ext/train.13000_13999.json
+[2021-06-05 17:39:14,725 INFO] Processed instances 1000
+[2021-06-05 17:39:14,725 INFO] Saving to ../ext/data/bert_data/train_ext/train.10000_10999.bert.pt
+[2021-06-05 17:39:16,905 INFO] Processing ../ext/data/json_data/train_ext/train.14000_14999.json
+[2021-06-05 17:39:21,891 INFO] Processed instances 1000
+[2021-06-05 17:39:21,892 INFO] Saving to ../ext/data/bert_data/train_ext/train.11000_11999.bert.pt
+[2021-06-05 17:39:24,051 INFO] Processing ../ext/data/json_data/train_ext/train.15000_15999.json
+[2021-06-05 17:40:19,578 INFO] Processed instances 1000
+[2021-06-05 17:40:19,578 INFO] Saving to ../ext/data/bert_data/train_ext/train.12000_12999.bert.pt
+[2021-06-05 17:40:21,729 INFO] Processing ../ext/data/json_data/train_ext/train.16000_16999.json
+[2021-06-05 17:40:26,403 INFO] Processed instances 1000
+[2021-06-05 17:40:26,403 INFO] Saving to ../ext/data/bert_data/train_ext/train.13000_13999.bert.pt
+[2021-06-05 17:40:27,950 INFO] Processed instances 1000
+[2021-06-05 17:40:27,951 INFO] Saving to ../ext/data/bert_data/train_ext/train.14000_14999.bert.pt
+[2021-06-05 17:40:28,684 INFO] Processing ../ext/data/json_data/train_ext/train.17000_17999.json
+[2021-06-05 17:40:30,083 INFO] Processing ../ext/data/json_data/train_ext/train.18000_18999.json
+[2021-06-05 17:40:32,708 INFO] Processed instances 1000
+[2021-06-05 17:40:32,708 INFO] Saving to ../ext/data/bert_data/train_ext/train.15000_15999.bert.pt
+[2021-06-05 17:40:34,881 INFO] Processing ../ext/data/json_data/train_ext/train.19000_19999.json
+[2021-06-05 17:41:32,159 INFO] Processed instances 1000
+[2021-06-05 17:41:32,159 INFO] Saving to ../ext/data/bert_data/train_ext/train.16000_16999.bert.pt
+[2021-06-05 17:41:34,369 INFO] Processing ../ext/data/json_data/train_ext/train.20000_20999.json
+[2021-06-05 17:41:36,235 INFO] Processed instances 1000
+[2021-06-05 17:41:36,236 INFO] Saving to ../ext/data/bert_data/train_ext/train.18000_18999.bert.pt
+[2021-06-05 17:41:37,920 INFO] Processed instances 1000
+[2021-06-05 17:41:37,920 INFO] Saving to ../ext/data/bert_data/train_ext/train.17000_17999.bert.pt
+[2021-06-05 17:41:38,405 INFO] Processing ../ext/data/json_data/train_ext/train.21000_21999.json
+[2021-06-05 17:41:40,054 INFO] Processing ../ext/data/json_data/train_ext/train.22000_22999.json
+[2021-06-05 17:41:42,018 INFO] Processed instances 1000
+[2021-06-05 17:41:42,019 INFO] Saving to ../ext/data/bert_data/train_ext/train.19000_19999.bert.pt
+[2021-06-05 17:41:44,181 INFO] Processing ../ext/data/json_data/train_ext/train.23000_23999.json
+[2021-06-05 17:42:41,230 INFO] Processed instances 1000
+[2021-06-05 17:42:41,231 INFO] Saving to ../ext/data/bert_data/train_ext/train.20000_20999.bert.pt
+[2021-06-05 17:42:43,369 INFO] Processing ../ext/data/json_data/train_ext/train.24000_24999.json
+[2021-06-05 17:42:45,565 INFO] Processed instances 1000
+[2021-06-05 17:42:45,565 INFO] Saving to ../ext/data/bert_data/train_ext/train.21000_21999.bert.pt
+[2021-06-05 17:42:47,684 INFO] Processing ../ext/data/json_data/train_ext/train.25000_25999.json
+[2021-06-05 17:42:50,854 INFO] Processed instances 1000
+[2021-06-05 17:42:50,854 INFO] Saving to ../ext/data/bert_data/train_ext/train.22000_22999.bert.pt
+[2021-06-05 17:42:52,913 INFO] Processed instances 1000
+[2021-06-05 17:42:52,914 INFO] Saving to ../ext/data/bert_data/train_ext/train.23000_23999.bert.pt
+[2021-06-05 17:42:53,021 INFO] Processing ../ext/data/json_data/train_ext/train.26000_26999.json
+[2021-06-05 17:42:55,053 INFO] Processing ../ext/data/json_data/train_ext/train.27000_27999.json
+[2021-06-05 17:43:51,514 INFO] Processed instances 1000
+[2021-06-05 17:43:51,514 INFO] Saving to ../ext/data/bert_data/train_ext/train.24000_24999.bert.pt
+[2021-06-05 17:43:53,650 INFO] Processing ../ext/data/json_data/train_ext/train.28000_28999.json
+[2021-06-05 17:43:54,600 INFO] Processed instances 1000
+[2021-06-05 17:43:54,601 INFO] Saving to ../ext/data/bert_data/train_ext/train.25000_25999.bert.pt
+[2021-06-05 17:43:56,785 INFO] Processing ../ext/data/json_data/train_ext/train.29000_29999.json
+[2021-06-05 17:44:04,445 INFO] Processed instances 1000
+[2021-06-05 17:44:04,445 INFO] Saving to ../ext/data/bert_data/train_ext/train.26000_26999.bert.pt
+[2021-06-05 17:44:05,351 INFO] Processed instances 1000
+[2021-06-05 17:44:05,352 INFO] Saving to ../ext/data/bert_data/train_ext/train.27000_27999.bert.pt
+[2021-06-05 17:44:06,603 INFO] Processing ../ext/data/json_data/train_ext/train.30000_30999.json
+[2021-06-05 17:44:07,547 INFO] Processing ../ext/data/json_data/train_ext/train.31000_31999.json
+[2021-06-05 17:45:03,974 INFO] Processed instances 1000
+[2021-06-05 17:45:03,975 INFO] Saving to ../ext/data/bert_data/train_ext/train.28000_28999.bert.pt
+[2021-06-05 17:45:06,026 INFO] Processed instances 1000
+[2021-06-05 17:45:06,026 INFO] Saving to ../ext/data/bert_data/train_ext/train.29000_29999.bert.pt
+[2021-06-05 17:45:06,156 INFO] Processing ../ext/data/json_data/train_ext/train.32000_32999.json
+[2021-06-05 17:45:08,184 INFO] Processing ../ext/data/json_data/train_ext/train.33000_33999.json
+[2021-06-05 17:45:19,111 INFO] Processed instances 1000
+[2021-06-05 17:45:19,111 INFO] Saving to ../ext/data/bert_data/train_ext/train.30000_30999.bert.pt
+[2021-06-05 17:45:19,156 INFO] Processed instances 1000
+[2021-06-05 17:45:19,157 INFO] Saving to ../ext/data/bert_data/train_ext/train.31000_31999.bert.pt
+[2021-06-05 17:45:22,187 INFO] Processing ../ext/data/json_data/train_ext/train.35000_35999.json
+[2021-06-05 17:45:22,194 INFO] Processing ../ext/data/json_data/train_ext/train.34000_34999.json
+[2021-06-05 17:46:16,460 INFO] Processed instances 1000
+[2021-06-05 17:46:16,460 INFO] Saving to ../ext/data/bert_data/train_ext/train.32000_32999.bert.pt
+[2021-06-05 17:46:18,605 INFO] Processing ../ext/data/json_data/train_ext/train.36000_36999.json
+[2021-06-05 17:46:18,842 INFO] Processed instances 1000
+[2021-06-05 17:46:18,843 INFO] Saving to ../ext/data/bert_data/train_ext/train.33000_33999.bert.pt
+[2021-06-05 17:46:21,050 INFO] Processing ../ext/data/json_data/train_ext/train.37000_37999.json
+[2021-06-05 17:46:33,106 INFO] Processed instances 1000
+[2021-06-05 17:46:33,106 INFO] Saving to ../ext/data/bert_data/train_ext/train.35000_35999.bert.pt
+[2021-06-05 17:46:35,223 INFO] Processing ../ext/data/json_data/train_ext/train.38000_38999.json
+[2021-06-05 17:46:36,102 INFO] Processed instances 1000
+[2021-06-05 17:46:36,102 INFO] Saving to ../ext/data/bert_data/train_ext/train.34000_34999.bert.pt
+[2021-06-05 17:46:38,249 INFO] Processing ../ext/data/json_data/train_ext/train.39000_39999.json
+[2021-06-05 17:47:26,378 INFO] Processed instances 1000
+[2021-06-05 17:47:26,378 INFO] Saving to ../ext/data/bert_data/train_ext/train.36000_36999.bert.pt
+[2021-06-05 17:47:28,384 INFO] Processed instances 1000
+[2021-06-05 17:47:28,384 INFO] Saving to ../ext/data/bert_data/train_ext/train.37000_37999.bert.pt
+[2021-06-05 17:47:28,731 INFO] Processing ../ext/data/json_data/train_ext/train.40000_40662.json
+[2021-06-05 17:47:40,705 INFO] Processed instances 1000
+[2021-06-05 17:47:40,706 INFO] Saving to ../ext/data/bert_data/train_ext/train.38000_38999.bert.pt
+[2021-06-05 17:47:48,111 INFO] Processed instances 1000
+[2021-06-05 17:47:48,112 INFO] Saving to ../ext/data/bert_data/train_ext/train.39000_39999.bert.pt
+[2021-06-05 17:48:10,136 INFO] Processed instances 663
+[2021-06-05 17:48:10,136 INFO] Saving to ../ext/data/bert_data/train_ext/train.40000_40662.bert.pt
+[2021-06-05 17:48:34,342 INFO] Processing ../ext/data/json_data/valid_ext/valid.0000_0999.json
+[2021-06-05 17:48:34,343 INFO] Processing ../ext/data/json_data/valid_ext/valid.2000_2139.json
+[2021-06-05 17:48:34,365 INFO] Processing ../ext/data/json_data/valid_ext/valid.1000_1999.json
+[2021-06-05 17:48:44,747 INFO] Processed instances 140
+[2021-06-05 17:48:44,747 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt
+[2021-06-05 17:49:39,174 INFO] Processed instances 1000
+[2021-06-05 17:49:39,175 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt
+[2021-06-05 17:49:41,270 INFO] Processed instances 1000
+[2021-06-05 17:49:41,270 INFO] Saving to ../ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt
+[2021-06-05 17:50:32,120 INFO] Processing ../ext/data/json_data/test/test.0000_0999.json
+[2021-06-05 17:50:32,122 INFO] Processing ../ext/data/json_data/test/test.1000_1999.json
+[2021-06-05 17:50:32,123 INFO] Processing ../ext/data/json_data/test/test.2000_2999.json
+[2021-06-05 17:50:32,153 INFO] Processing ../ext/data/json_data/test/test.3000_3999.json
+[2021-06-05 17:51:07,842 INFO] Processed instances 1000
+[2021-06-05 17:51:07,842 INFO] Saving to ../ext/data/bert_data/test/test.1000_1999.bert.pt
+[2021-06-05 17:51:09,702 INFO] Processed instances 1000
+[2021-06-05 17:51:09,702 INFO] Saving to ../ext/data/bert_data/test/test.2000_2999.bert.pt
+[2021-06-05 17:51:09,978 INFO] Processing ../ext/data/json_data/test/test.4000_4999.json
+[2021-06-05 17:51:10,085 INFO] Processed instances 1000
+[2021-06-05 17:51:10,085 INFO] Saving to ../ext/data/bert_data/test/test.0000_0999.bert.pt
+[2021-06-05 17:51:10,583 INFO] Processed instances 1000
+[2021-06-05 17:51:10,584 INFO] Saving to ../ext/data/bert_data/test/test.3000_3999.bert.pt
+[2021-06-05 17:51:11,773 INFO] Processing ../ext/data/json_data/test/test.5000_5999.json
+[2021-06-05 17:51:12,144 INFO] Processing ../ext/data/json_data/test/test.6000_6999.json
+[2021-06-05 17:51:12,700 INFO] Processing ../ext/data/json_data/test/test.7000_7999.json
+[2021-06-05 17:51:47,391 INFO] Processed instances 1000
+[2021-06-05 17:51:47,391 INFO] Saving to ../ext/data/bert_data/test/test.4000_4999.bert.pt
+[2021-06-05 17:51:49,106 INFO] Processed instances 1000
+[2021-06-05 17:51:49,107 INFO] Saving to ../ext/data/bert_data/test/test.6000_6999.bert.pt
+[2021-06-05 17:51:49,222 INFO] Processed instances 1000
+[2021-06-05 17:51:49,222 INFO] Saving to ../ext/data/bert_data/test/test.5000_5999.bert.pt
+[2021-06-05 17:51:49,516 INFO] Processing ../ext/data/json_data/test/test.8000_8999.json
+[2021-06-05 17:51:51,220 INFO] Processing ../ext/data/json_data/test/test.9000_9986.json
+[2021-06-05 17:51:51,305 INFO] Processed instances 1000
+[2021-06-05 17:51:51,306 INFO] Saving to ../ext/data/bert_data/test/test.7000_7999.bert.pt
+[2021-06-05 17:52:27,190 INFO] Processed instances 1000
+[2021-06-05 17:52:27,190 INFO] Saving to ../ext/data/bert_data/test/test.8000_8999.bert.pt
+[2021-06-05 17:52:28,600 INFO] Processed instances 987
+[2021-06-05 17:52:28,600 INFO] Saving to ../ext/data/bert_data/test/test.9000_9986.bert.pt

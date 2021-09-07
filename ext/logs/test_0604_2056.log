@@ -1,0 +1,17 @@
+[2021-06-06 19:18:29,010 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0604_2056/model_step_30000.pt
+[2021-06-06 19:20:49,986 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0604_2056/model_step_30000.pt
+[2021-06-06 19:21:09,700 INFO] Loading test dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/test/test.00_30.bert.pt, number of examples: 31
+[2021-06-06 19:21:09,705 INFO] * number of parameters: 103217153
+[2021-06-06 19:21:15,321 INFO] Validation xent: 6.53205 at step 30000
+[2021-06-06 19:23:31,480 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0604_2056/model_step_30000.pt
+[2021-06-06 19:23:50,814 INFO] Loading test dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/test/test.00_30.bert.pt, number of examples: 31
+[2021-06-06 19:23:50,820 INFO] * number of parameters: 103217153
+[2021-06-06 19:23:54,997 INFO] Validation xent: 6.53205 at step 30000
+[2021-06-06 19:31:03,175 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0604_2056/model_step_30000.pt
+[2021-06-06 19:31:21,308 INFO] Loading test dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/test/test.00_28.bert.pt, number of examples: 29
+[2021-06-06 19:31:21,314 INFO] * number of parameters: 103217153
+[2021-06-06 19:31:23,857 INFO] Validation xent: 6.68662 at step 30000
+[2021-06-06 21:24:52,525 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0604_2056/model_step_39000.pt
+[2021-06-06 21:25:16,968 INFO] Loading test dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/test/test.00_29.bert.pt, number of examples: 30
+[2021-06-06 21:25:16,973 INFO] * number of parameters: 103217153
+[2021-06-06 21:25:19,254 INFO] Validation xent: 6.65028 at step 39000

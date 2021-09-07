@@ -1,0 +1,30 @@
+[2021-06-06 19:15:50,114 INFO] Processing ../ext/data/json_data/train_ext/train.0_7.json
+[2021-06-06 19:15:51,106 INFO] Processed instances 8
+[2021-06-06 19:15:51,106 INFO] Saving to ../ext/data/bert_data/train_ext/train.0_7.bert.pt
+[2021-06-06 19:16:27,914 INFO] Processing ../ext/data/json_data/test/test.00_30.json
+[2021-06-06 19:16:29,399 INFO] Processed instances 31
+[2021-06-06 19:16:29,400 INFO] Saving to ../ext/data/bert_data/test/test.00_30.bert.pt
+[2021-06-06 19:29:03,993 INFO] Processing ../ext/data/json_data/train_ext/train.0_7.json
+[2021-06-06 19:29:04,690 INFO] Processed instances 8
+[2021-06-06 19:29:04,690 INFO] Saving to ../ext/data/bert_data/train_ext/train.0_7.bert.pt
+[2021-06-06 19:29:41,255 INFO] Processing ../ext/data/json_data/test/test.00_28.json
+[2021-06-06 19:29:42,668 INFO] Processed instances 29
+[2021-06-06 19:29:42,669 INFO] Saving to ../ext/data/bert_data/test/test.00_28.bert.pt
+[2021-06-06 21:22:39,520 INFO] Processing ../ext/data/json_data/train_ext/train.0_7.json
+[2021-06-06 21:22:40,310 INFO] Processed instances 8
+[2021-06-06 21:22:40,311 INFO] Saving to ../ext/data/bert_data/train_ext/train.0_7.bert.pt
+[2021-06-06 21:23:16,776 INFO] Processing ../ext/data/json_data/test/test.00_28.json
+[2021-06-06 21:23:18,016 INFO] Processed instances 29
+[2021-06-06 21:23:18,017 INFO] Saving to ../ext/data/bert_data/test/test.00_28.bert.pt
+[2021-06-06 21:23:53,942 INFO] Processing ../ext/data/json_data/train_ext/train.0_7.json
+[2021-06-06 21:23:54,593 INFO] Processed instances 8
+[2021-06-06 21:23:54,594 INFO] Saving to ../ext/data/bert_data/train_ext/train.0_7.bert.pt
+[2021-06-06 21:24:30,047 INFO] Processing ../ext/data/json_data/test/test.00_29.json
+[2021-06-06 21:24:31,253 INFO] Processed instances 30
+[2021-06-06 21:24:31,253 INFO] Saving to ../ext/data/bert_data/test/test.00_29.bert.pt
+[2021-06-06 21:30:27,439 INFO] Processing ../ext/data/json_data/train_ext/train.0_7.json
+[2021-06-06 21:30:28,115 INFO] Processed instances 8
+[2021-06-06 21:30:28,115 INFO] Saving to ../ext/data/bert_data/train_ext/train.0_7.bert.pt
+[2021-06-06 21:31:02,719 INFO] Processing ../ext/data/json_data/test/test.00_28.json
+[2021-06-06 21:31:03,954 INFO] Processed instances 29
+[2021-06-06 21:31:03,955 INFO] Saving to ../ext/data/bert_data/test/test.00_28.bert.pt

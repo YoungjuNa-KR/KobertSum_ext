@@ -1,0 +1,269 @@
+[2021-06-05 20:56:41,691 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 20:57:23,062 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 20:57:23,105 INFO] * number of parameters: 103217153
+[2021-06-05 20:57:46,022 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 20:58:03,054 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 20:58:05,505 INFO] Validation xent: 5.51876 at step 1000
+[2021-06-05 20:58:05,591 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_2000.pt
+[2021-06-05 20:58:18,109 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 20:58:18,114 INFO] * number of parameters: 103217153
+[2021-06-05 20:58:35,096 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 20:58:51,972 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 20:58:54,396 INFO] Validation xent: 5.09543 at step 2000
+[2021-06-05 20:58:54,398 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_3000.pt
+[2021-06-05 20:59:06,855 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 20:59:06,859 INFO] * number of parameters: 103217153
+[2021-06-05 20:59:23,781 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 20:59:40,507 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 20:59:42,956 INFO] Validation xent: 4.91695 at step 3000
+[2021-06-05 20:59:42,959 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_4000.pt
+[2021-06-05 20:59:54,591 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 20:59:54,596 INFO] * number of parameters: 103217153
+[2021-06-05 21:00:11,645 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:00:28,484 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:00:30,948 INFO] Validation xent: 4.77421 at step 4000
+[2021-06-05 21:00:30,951 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_5000.pt
+[2021-06-05 21:00:42,682 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:00:42,688 INFO] * number of parameters: 103217153
+[2021-06-05 21:00:59,683 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:01:16,601 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:01:19,043 INFO] Validation xent: 4.71168 at step 5000
+[2021-06-05 21:01:19,045 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_6000.pt
+[2021-06-05 21:01:30,758 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:01:30,763 INFO] * number of parameters: 103217153
+[2021-06-05 21:01:48,058 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:02:05,061 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:02:07,507 INFO] Validation xent: 4.67113 at step 6000
+[2021-06-05 21:02:07,509 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_7000.pt
+[2021-06-05 21:02:19,651 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:02:19,655 INFO] * number of parameters: 103217153
+[2021-06-05 21:02:36,804 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:02:53,771 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:02:56,207 INFO] Validation xent: 4.68759 at step 7000
+[2021-06-05 21:02:56,209 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_8000.pt
+[2021-06-05 21:03:08,176 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:03:08,180 INFO] * number of parameters: 103217153
+[2021-06-05 21:03:25,115 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:03:41,880 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:03:44,307 INFO] Validation xent: 4.75404 at step 8000
+[2021-06-05 21:03:44,310 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_9000.pt
+[2021-06-05 21:03:56,405 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:03:56,410 INFO] * number of parameters: 103217153
+[2021-06-05 21:04:13,396 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:04:30,153 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:04:32,585 INFO] Validation xent: 4.71319 at step 9000
+[2021-06-05 21:04:32,588 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_10000.pt
+[2021-06-05 21:04:44,449 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:04:44,453 INFO] * number of parameters: 103217153
+[2021-06-05 21:05:01,409 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:05:18,212 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:05:20,673 INFO] Validation xent: 4.76853 at step 10000
+[2021-06-05 21:05:20,675 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_11000.pt
+[2021-06-05 21:05:32,828 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:05:32,833 INFO] * number of parameters: 103217153
+[2021-06-05 21:05:49,899 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:06:06,997 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:06:09,471 INFO] Validation xent: 4.75735 at step 11000
+[2021-06-05 21:06:09,474 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_12000.pt
+[2021-06-05 21:06:21,510 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:06:21,637 INFO] * number of parameters: 103217153
+[2021-06-05 21:06:38,747 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:06:55,794 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:06:58,260 INFO] Validation xent: 4.69959 at step 12000
+[2021-06-05 21:06:58,262 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_13000.pt
+[2021-06-05 21:07:10,889 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:07:10,895 INFO] * number of parameters: 103217153
+[2021-06-05 21:07:28,259 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:07:45,048 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:07:47,503 INFO] Validation xent: 4.66665 at step 13000
+[2021-06-05 21:07:47,506 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_14000.pt
+[2021-06-05 21:08:00,232 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:08:00,237 INFO] * number of parameters: 103217153
+[2021-06-05 21:08:17,527 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:08:34,412 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:08:36,887 INFO] Validation xent: 4.65247 at step 14000
+[2021-06-05 21:08:36,889 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_15000.pt
+[2021-06-05 21:08:48,966 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:08:48,970 INFO] * number of parameters: 103217153
+[2021-06-05 21:09:06,055 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:09:22,962 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:09:25,407 INFO] Validation xent: 4.67694 at step 15000
+[2021-06-05 21:09:25,410 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_16000.pt
+[2021-06-05 21:09:38,537 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:09:38,542 INFO] * number of parameters: 103217153
+[2021-06-05 21:09:55,757 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:10:13,020 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:10:15,576 INFO] Validation xent: 4.6258 at step 16000
+[2021-06-05 21:10:15,578 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_17000.pt
+[2021-06-05 21:10:27,936 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:10:27,941 INFO] * number of parameters: 103217153
+[2021-06-05 21:10:45,461 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:11:03,081 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:11:05,629 INFO] Validation xent: 4.60832 at step 17000
+[2021-06-05 21:11:05,632 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_18000.pt
+[2021-06-05 21:11:18,834 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:11:18,839 INFO] * number of parameters: 103217153
+[2021-06-05 21:11:36,321 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:11:53,542 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:11:56,046 INFO] Validation xent: 4.66745 at step 18000
+[2021-06-05 21:11:56,048 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_19000.pt
+[2021-06-05 21:12:08,038 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:12:08,044 INFO] * number of parameters: 103217153
+[2021-06-05 21:12:25,606 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:12:42,799 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:12:45,329 INFO] Validation xent: 4.60911 at step 19000
+[2021-06-05 21:12:45,332 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_20000.pt
+[2021-06-05 21:12:57,288 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:12:57,293 INFO] * number of parameters: 103217153
+[2021-06-05 21:13:14,727 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:13:31,939 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:13:34,493 INFO] Validation xent: 4.63362 at step 20000
+[2021-06-05 21:13:34,495 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_21000.pt
+[2021-06-05 21:13:46,596 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:13:46,601 INFO] * number of parameters: 103217153
+[2021-06-05 21:14:04,259 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:14:21,672 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:14:24,186 INFO] Validation xent: 4.59508 at step 21000
+[2021-06-05 21:14:24,189 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_22000.pt
+[2021-06-05 21:14:36,087 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:14:36,092 INFO] * number of parameters: 103217153
+[2021-06-05 21:14:53,586 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:15:10,898 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:15:13,392 INFO] Validation xent: 4.67094 at step 22000
+[2021-06-05 21:15:13,395 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_23000.pt
+[2021-06-05 21:15:25,587 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:15:25,592 INFO] * number of parameters: 103217153
+[2021-06-05 21:15:43,229 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:16:00,540 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:16:03,064 INFO] Validation xent: 4.61814 at step 23000
+[2021-06-05 21:16:03,066 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_24000.pt
+[2021-06-05 21:16:15,054 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:16:15,060 INFO] * number of parameters: 103217153
+[2021-06-05 21:16:32,594 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:16:49,799 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:16:52,319 INFO] Validation xent: 4.62123 at step 24000
+[2021-06-05 21:16:52,321 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_25000.pt
+[2021-06-05 21:17:04,299 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:17:04,304 INFO] * number of parameters: 103217153
+[2021-06-05 21:17:21,905 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:17:39,184 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:17:41,710 INFO] Validation xent: 4.59372 at step 25000
+[2021-06-05 21:17:41,712 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_26000.pt
+[2021-06-05 21:17:53,778 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:17:53,782 INFO] * number of parameters: 103217153
+[2021-06-05 21:18:11,242 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:18:28,456 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:18:30,972 INFO] Validation xent: 4.61922 at step 26000
+[2021-06-05 21:18:30,975 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_27000.pt
+[2021-06-05 21:18:43,117 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:18:43,122 INFO] * number of parameters: 103217153
+[2021-06-05 21:19:00,549 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:19:17,715 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:19:20,264 INFO] Validation xent: 4.63261 at step 27000
+[2021-06-05 21:19:20,266 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_28000.pt
+[2021-06-05 21:19:32,566 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:19:32,571 INFO] * number of parameters: 103217153
+[2021-06-05 21:19:50,156 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:20:07,421 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:20:09,905 INFO] Validation xent: 4.62972 at step 28000
+[2021-06-05 21:20:09,908 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_29000.pt
+[2021-06-05 21:20:22,048 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:20:22,053 INFO] * number of parameters: 103217153
+[2021-06-05 21:20:39,516 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:20:56,776 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:20:59,307 INFO] Validation xent: 4.61219 at step 29000
+[2021-06-05 21:20:59,310 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_30000.pt
+[2021-06-05 21:21:11,522 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:21:11,526 INFO] * number of parameters: 103217153
+[2021-06-05 21:21:28,893 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:21:46,000 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:21:48,505 INFO] Validation xent: 4.57351 at step 30000
+[2021-06-05 21:21:48,508 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_31000.pt
+[2021-06-05 21:22:01,129 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:22:01,134 INFO] * number of parameters: 103217153
+[2021-06-05 21:22:18,918 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:22:36,228 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:22:38,725 INFO] Validation xent: 4.86122 at step 31000
+[2021-06-05 21:22:38,728 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_32000.pt
+[2021-06-05 21:22:51,164 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:22:51,168 INFO] * number of parameters: 103217153
+[2021-06-05 21:23:08,613 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:23:25,890 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:23:28,477 INFO] Validation xent: 4.88391 at step 32000
+[2021-06-05 21:23:28,480 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_33000.pt
+[2021-06-05 21:23:40,999 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:23:41,227 INFO] * number of parameters: 103217153
+[2021-06-05 21:23:58,743 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:24:15,965 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:24:18,522 INFO] Validation xent: 4.65123 at step 33000
+[2021-06-05 21:24:18,525 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_34000.pt
+[2021-06-05 21:24:30,616 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:24:30,621 INFO] * number of parameters: 103217153
+[2021-06-05 21:24:48,075 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:25:05,241 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:25:07,734 INFO] Validation xent: 4.77575 at step 34000
+[2021-06-05 21:25:07,737 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_35000.pt
+[2021-06-05 21:25:19,909 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:25:19,914 INFO] * number of parameters: 103217153
+[2021-06-05 21:25:37,250 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:25:54,438 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:25:56,956 INFO] Validation xent: 4.67458 at step 35000
+[2021-06-05 21:25:56,958 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_36000.pt
+[2021-06-05 21:26:08,782 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:26:08,787 INFO] * number of parameters: 103217153
+[2021-06-05 21:26:26,266 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:26:43,513 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:26:46,026 INFO] Validation xent: 4.70749 at step 36000
+[2021-06-05 21:26:46,028 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_37000.pt
+[2021-06-05 21:26:58,313 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:26:58,318 INFO] * number of parameters: 103217153
+[2021-06-05 21:27:15,657 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:27:32,666 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:27:35,119 INFO] Validation xent: 4.73197 at step 37000
+[2021-06-05 21:27:35,121 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_38000.pt
+[2021-06-05 21:27:46,637 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:27:46,641 INFO] * number of parameters: 103217153
+[2021-06-05 21:28:03,635 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:28:20,507 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:28:22,976 INFO] Validation xent: 4.8185 at step 38000
+[2021-06-05 21:28:22,979 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_39000.pt
+[2021-06-05 21:28:34,857 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:28:34,861 INFO] * number of parameters: 103217153
+[2021-06-05 21:28:51,829 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:29:08,620 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:29:11,084 INFO] Validation xent: 4.65261 at step 39000
+[2021-06-05 21:29:11,087 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_40000.pt
+[2021-06-05 21:29:22,942 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:29:22,946 INFO] * number of parameters: 103217153
+[2021-06-05 21:29:40,059 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:29:56,908 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:29:59,381 INFO] Validation xent: 4.67722 at step 40000
+[2021-06-05 21:29:59,384 INFO] PPL [(4.5735142150771955, '/mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_30000.pt'), (4.593722866183129, '/mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_25000.pt'), (4.595076833150097, '/mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_21000.pt')]
+[2021-06-05 21:29:59,384 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_30000.pt
+[2021-06-05 21:35:34,784 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:36:13,169 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:36:13,176 INFO] * number of parameters: 103217153
+[2021-06-05 21:36:55,963 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:37:13,636 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:37:13,642 INFO] * number of parameters: 103217153
+[2021-06-05 21:37:38,194 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:37:56,160 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:37:56,166 INFO] * number of parameters: 103217153
+[2021-06-05 21:39:30,094 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:39:46,691 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:39:46,697 INFO] * number of parameters: 103217153
+[2021-06-05 21:41:44,842 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:42:01,885 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:42:01,891 INFO] * number of parameters: 103217153
+[2021-06-05 21:43:18,564 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:43:35,180 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:43:35,187 INFO] * number of parameters: 103217153
+[2021-06-05 21:45:18,330 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_1000.pt
+[2021-06-05 21:45:34,459 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:45:34,466 INFO] * number of parameters: 103217153
+[2021-06-05 21:45:53,332 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.1000_1999.bert.pt, number of examples: 1000
+[2021-06-05 21:46:10,105 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.2000_2139.bert.pt, number of examples: 140
+[2021-06-05 21:46:12,566 INFO] Validation xent: 5.51876 at step 1000
+[2021-06-05 21:46:12,617 INFO] Loading checkpoint from /mnt/d/KobertSum_customized/ext/models/0605_1823/model_step_2000.pt
+[2021-06-05 21:46:30,552 INFO] Loading valid dataset from /mnt/d/KobertSum_customized/ext/data/bert_data/valid_ext/valid.0000_0999.bert.pt, number of examples: 1000
+[2021-06-05 21:46:30,582 INFO] * number of parameters: 103217153
