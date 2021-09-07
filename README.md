@@ -1,5 +1,3 @@
-
-# 15시 팀 추가 # (작성자 나영주)
 기존의 KobertSum에서 필요하지 않은 부분은 제거하고 학습 결과가 정상적으로 동작하게끔 디버깅 과정을 수행하였습니다.
 
 학습환경
@@ -12,19 +10,21 @@ CUDA : 11.2
 
 # 라이브러리 설치
 
+-------------------------------------------------------------
+가상 환경 설정 및 dependency
+```
+pip install -r requirements.txt
+python main.py -task install
+pip install beautifulsoup4==4.6.0 
+```
 
-1. 가상 환경 설정 및 pip install -r requirements.txt
-2. python main.py -task install
-3. !pip install beautifulsoup4==4.6.0 
+현재 디렉토리에는 best 모델만 담겨있습니다.
+또한 전처리된 텍스트가 들어있기 때문에 아래의 실행 코드를 실행하면 정상 동작합니다.
+training과 validate의 결과는 ext/logs에 담기게 됩니다.
+test를 수행하면 ext/results 에 csv파일이 생기게 됩니다.
 
-
-## 현재 디렉토리에는 best 모델만 담겨있습니다.
-## 또한 전처리된 텍스트가 들어있기 때문에 아래의 실행 코드를 실행하면 정상 동작합니다.
-## training과 validate의 결과는 ext/logs에 담기게 됩니다.
-## test를 수행하면 ext/results 에 csv파일이 생기게 됩니다.
-
-## 만약 test할 기사를 바꾸고 싶다면 ext/data/raw에 extractive_test_v2.jsonl 파일을 수정해야 합니다.
-## 이후에 다시 0)preprocessing을 해준 다음 test해야 합니다.
+만약 test할 기사를 바꾸고 싶다면 ext/data/raw에 extractive_test_v2.jsonl 파일을 수정해야 합니다.
+이후에 다시 0)preprocessing을 해준 다음 test해야 합니다.
 
 
 
@@ -32,21 +32,28 @@ CUDA : 11.2
 
 학습을 위해서는 preprocessing을 거쳐야 합니다. (미리 진행되어 있다면 생략)
 
-0) preprocessing
+---------------------------------------------------------------------
+0. preprocessing
 
+
+```
 python main.py -task make_data -n_cpus 2
+```
 
-1) Fine Tuning 
-
+1. Fine Tuning 
+```
 python main.py -task train -target_summary_sent ext -visible_gpus 0 -train_from 0604_2056/model_step_39000.pt
+```
 
-2) Validate
-
+2. Validate
+```
 python main.py -task valid -model_path 0604_2056
+```
 
-3) test
-
+3. test
+```
 python main.py -task test -test_from 0604_2056/model_step_39000.pt -visible_gpus 0
+```
 
 
 
@@ -62,7 +69,9 @@ KoBERTSUM은 ext 및 abs summarizatoin 분야에서 우수한 성능을 보여�
 
 현재는
 
-- Pre-trained BERT로 [KoBERT](https://github.com/SKTBrain/KoBERT)를 이용합니다. 원활한 연결을 위해 [Transformers(](https://github.com/monologg/KoBERT-Transformers)[monologg](https://github.com/monologg/KoBERT-Transformers)[)](https://github.com/monologg/KoBERT-Transformers)를 통해 Huggingface transformers 라이브러리를 사용합니다.
+- Pre-trained BERT로 [KoBERT](https://github.com/SKTBrain/KoBERT)를 이용합니다. 원활한 연결을 위해 
+
+[Transformers(](https://github.com/monologg/KoBERT-Transformers)[monologg](https://github.com/monologg/KoBERT-Transformers)[)](https://github.com/monologg/KoBERT-Transformers)를 통해 Huggingface transformers 라이브러리를 사용합니다.
 
 - 이용 Data로 한국어 문서 추출요약 AI 경진대회(~ 2020.12.09)에서 사용된 [Bflysoft-뉴스기사 데이터셋](https://dacon.io/competitions/official/235671/data/)에 맞춰져 있습니다.
 
@@ -92,7 +101,7 @@ BertSum은 BERT 위에 inter-sentence Transformer 2-layers 를 얹은 구조를 
 
 - 매 sentence마다 다른 segment embeddings 토큰을 더해주는 interval segment embeddings을 추가합니다.
 
-  ![BERTSUM_structure](tutorials/images/BERTSUM_structure.PNG)
+  ![BERTSUM_structure]
 
 ## Install
 
